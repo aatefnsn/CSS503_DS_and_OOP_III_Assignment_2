@@ -1,0 +1,3864 @@
+Creating Barber Threads 3 barbers
+Barber 0 arrives for work
+Barber 0 goes for a nap
+Barber 2 arrives for work
+Barber 2 goes for a nap
+Customer 0 arrived at the shop
+Barber 1Customer  arrives for work
+0 wakes barber Barber 1 goes for a nap
+0
+Barber 0 wakes up
+Customer 0 sits in barber's 0 chair
+Barber 0 gives customer 0 a haircut 
+Customer 1 arrived at the shop
+Customer 1 wakes barber 2
+Barber 2 wakes up
+Customer 1 sits in barber's 2 chair
+Barber 2 gives customer 1 a haircut 
+Customer 2 arrived at the shop
+Customer 2 wakes barber 1
+Barber 1 wakes up
+Customer 2 sits in barber's 1 chair
+Barber 1 gives customer 2 a haircut 
+Customer 3 arrived at the shop
+Customer 3 takes a seat in the waiting room
+Customer 4 arrived at the shop
+Customer 4 takes a seat in the waiting room
+Customer 5 arrived at the shop
+Customer 5 takes a seat in the waiting room
+Barber 0 finishes customer 0's haircut 
+Customer 0 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 0
+Barber 0 calls customer 3
+Barber 0 wakes up
+Customer 0 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 3 wakes barber 0
+Customer 3 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 3
+Barber 0 calls customer 4
+Barber 0 wakes up
+Customer 3 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 4 wakes barber 0
+Customer 4 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 4
+Barber 0 calls customer 5
+Barber 0 wakes up
+Customer 4 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 5 wakes barber 0
+Customer 5 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 5
+Barber 0 goes for a nap
+Customer 5 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 6 arrived at the shop
+Customer 6 wakes barber 0
+Barber 0 wakes up
+Customer 6 sits in barber's 0 chair
+Barber 0 gives customer 6 a haircut 
+Barber 2 finishes customer 1's haircut 
+Customer 1 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 1
+Barber 2 goes for a nap
+Customer 1 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 7 arrived at the shop
+Customer 7 wakes barber 2
+Barber 2 wakes up
+Customer 7 sits in barber's 2 chair
+Barber 2 gives customer 7 a haircut 
+Barber 1 finishes customer 2's haircut 
+Customer 2 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 2
+Barber 1 goes for a nap
+Customer 2 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 8 arrived at the shop
+Customer 8 wakes barber 1
+Barber 1 wakes up
+Customer 8 sits in barber's 1 chair
+Barber 1 gives customer 8 a haircut 
+Customer 9 arrived at the shop
+Customer 9 takes a seat in the waiting room
+Customer 10 arrived at the shop
+Customer 10 takes a seat in the waiting room
+Customer 11 arrived at the shop
+Customer 11 takes a seat in the waiting room
+Barber 0 finishes customer 6's haircut 
+Customer 6 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 6
+Barber 0 calls customer 9
+Barber 0 wakes up
+Customer 6 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 9 wakes barber 0
+Customer 9 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 9
+Barber 0 calls customer 10
+Barber 0 wakes up
+Customer 9 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 10 wakes barber 0
+Customer 10 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 10
+Barber 0 calls customer 11
+Barber 0 wakes up
+Customer 10 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 11 wakes barber 0
+Customer 11 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 11
+Barber 0 goes for a nap
+Customer 11 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 12 arrived at the shop
+Customer 12 wakes barber 0
+Barber 0 wakes up
+Customer 12 sits in barber's 0 chair
+Barber 0 gives customer 12 a haircut 
+Barber 2 finishes customer 7's haircut 
+Customer 7 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 7
+Barber 2 goes for a nap
+Customer 7 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 13 arrived at the shop
+Customer 13 wakes barber 2
+Barber 2 wakes up
+Customer 13 sits in barber's 2 chair
+Barber 2 gives customer 13 a haircut 
+Barber 1 finishes customer 8's haircut 
+Customer 8 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 8
+Barber 1 goes for a nap
+Customer 8 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 14 arrived at the shop
+Customer 14 wakes barber 1
+Barber 1 wakes up
+Customer 14 sits in barber's 1 chair
+Barber 1 gives customer 14 a haircut 
+Customer 15 arrived at the shop
+Customer 15 takes a seat in the waiting room
+Customer 16 arrived at the shop
+Customer 16 takes a seat in the waiting room
+Customer 17 arrived at the shop
+Customer 17 takes a seat in the waiting room
+Barber 0 finishes customer 12's haircut 
+Customer 12 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 12
+Barber 0 calls customer 15
+Barber 0 wakes up
+Customer 12 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 15 wakes barber 0
+Customer 15 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 15
+Barber 0 calls customer 16
+Barber 0 wakes up
+Customer 15 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 16 wakes barber 0
+Customer 16 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 16
+Barber 0 calls customer 17
+Barber 0 wakes up
+Customer 17 wakes barber 0
+Customer 16 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 17 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 17
+Barber 0 goes for a nap
+Customer 17 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 18 arrived at the shop
+Customer 18 wakes barber 0
+Barber 0 wakes up
+Customer 18 sits in barber's 0 chair
+Barber 0 gives customer 18 a haircut 
+Barber 2 finishes customer 13's haircut 
+Customer 13 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 13
+Barber 2 goes for a nap
+Customer 13 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 19 arrived at the shop
+Customer 19 wakes barber 2
+Barber 2 wakes up
+Customer 19 sits in barber's 2 chair
+Barber 2 gives customer 19 a haircut 
+Barber 1 finishes customer 14's haircut 
+Customer 14 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 14
+Barber 1 goes for a nap
+Customer 14 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 20 arrived at the shop
+Customer 20 wakes barber 1
+Barber 1 wakes up
+Customer 20 sits in barber's 1 chair
+Barber 1 gives customer 20 a haircut 
+Customer 21 arrived at the shop
+Customer 21 takes a seat in the waiting room
+Customer 22 arrived at the shop
+Customer 22 takes a seat in the waiting room
+Customer 23 arrived at the shop
+Customer 23 takes a seat in the waiting room
+Barber 0 finishes customer 18's haircut 
+Customer 18 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 18
+Barber 0 calls customer 21
+Barber 0 wakes up
+Customer 18 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 21 wakes barber 0
+Customer 21 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 21
+Barber 0 calls customer 22
+Barber 0 wakes up
+Customer 21 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 22 wakes barber 0
+Customer 22 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 22
+Barber 0 calls customer 23
+Barber 0 wakes up
+Customer 22 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 23 wakes barber 0
+Customer 23 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 23
+Barber 0 goes for a nap
+Customer 23 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 24 arrived at the shop
+Customer 24 wakes barber 0
+Barber 0 wakes up
+Customer 24 sits in barber's 0 chair
+Barber 0 gives customer 24 a haircut 
+Barber 2 finishes customer 19's haircut 
+Customer 19 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 19
+Barber 2 goes for a nap
+Customer 19 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 25 arrived at the shop
+Customer 25 wakes barber 2
+Barber 2 wakes up
+Customer 25 sits in barber's 2 chair
+Barber 2 gives customer 25 a haircut 
+Barber 1 finishes customer 20's haircut 
+Customer 20 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 20
+Barber 1 goes for a nap
+Customer 20 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 26 arrived at the shop
+Customer 26 wakes barber 1
+Barber 1 wakes up
+Customer 26 sits in barber's 1 chair
+Barber 1 gives customer 26 a haircut 
+Customer 27 arrived at the shop
+Customer 27 takes a seat in the waiting room
+Customer 28 arrived at the shop
+Customer 28 takes a seat in the waiting room
+Customer 29 arrived at the shop
+Customer 29 takes a seat in the waiting room
+Barber 0 finishes customer 24's haircut 
+Customer 24 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 24
+Barber 0 calls customer 27
+Barber 0 wakes up
+Customer 24 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 27 wakes barber 0
+Customer 27 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 27
+Barber 0 calls customer 28
+Barber 0 wakes up
+Customer 27 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 28 wakes barber 0
+Customer 28 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 28
+Barber 0 calls customer 29
+Barber 0 wakes up
+Customer 28 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 29 wakes barber 0
+Customer 29 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 29
+Barber 0 goes for a nap
+Customer 29 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 30 arrived at the shop
+Customer 30 wakes barber 0
+Barber 0 wakes up
+Customer 30 sits in barber's 0 chair
+Barber 0 gives customer 30 a haircut 
+Barber 2 finishes customer 25's haircut 
+Customer 25 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 25
+Barber 2 goes for a nap
+Customer 25 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 31 arrived at the shop
+Customer 31 wakes barber 2
+Barber 2 wakes up
+Customer 31 sits in barber's 2 chair
+Barber 2 gives customer 31 a haircut 
+Barber 1 finishes customer 26's haircut 
+Customer 26 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 26
+Barber 1 goes for a nap
+Customer 26 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 32 arrived at the shop
+Customer 32 wakes barber 1
+Barber 1 wakes up
+Customer 32 sits in barber's 1 chair
+Barber 1 gives customer 32 a haircut 
+Customer 33 arrived at the shop
+Customer 33 takes a seat in the waiting room
+Customer 34 arrived at the shop
+Customer 34 takes a seat in the waiting room
+Customer 35 arrived at the shop
+Customer 35 takes a seat in the waiting room
+Barber 0 finishes customer 30's haircut 
+Customer 30 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 30
+Barber 0 calls customer 33
+Barber 0 wakes up
+Customer 30 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 33 wakes barber 0
+Customer 33 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 33
+Barber 0 calls customer 34
+Barber 0 wakes up
+Customer 33 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 34 wakes barber 0
+Customer 34 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 34
+Barber 0 calls customer 35
+Barber 0 wakes up
+Customer 34 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 35 wakes barber 0
+Customer 35 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 35
+Barber 0 goes for a nap
+Customer 35 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 36 arrived at the shop
+Customer 36 wakes barber 0
+Barber 0 wakes up
+Customer 36 sits in barber's 0 chair
+Barber 0 gives customer 36 a haircut 
+Barber 2 finishes customer 31's haircut 
+Customer 31 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 31
+Barber 2 goes for a nap
+Customer 31 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 37 arrived at the shop
+Customer 37 wakes barber 2
+Barber 2 wakes up
+Customer 37 sits in barber's 2 chair
+Barber 2 gives customer 37 a haircut 
+Barber 1 finishes customer 32's haircut 
+Customer 32 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 32
+Barber 1 goes for a nap
+Customer 32 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 38 arrived at the shop
+Customer 38 wakes barber 1
+Barber 1 wakes up
+Customer 38 sits in barber's 1 chair
+Barber 1 gives customer 38 a haircut 
+Customer 39 arrived at the shop
+Customer 39 takes a seat in the waiting room
+Customer 40 arrived at the shop
+Customer 40 takes a seat in the waiting room
+Customer 41 arrived at the shop
+Customer 41 takes a seat in the waiting room
+Barber 0 finishes customer 36's haircut 
+Customer 36 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 36
+Barber 0 calls customer 39
+Barber 0 wakes up
+Customer 36 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 39 wakes barber 0
+Customer 39 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 39
+Barber 0 calls customer 40
+Barber Customer 0 wakes up
+39 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 40 wakes barber 0
+Customer 40 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 40
+Barber 0 calls customer 41
+Barber 0 wakes up
+Customer 40 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 41 wakes barber 0
+Customer 41 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 41
+Barber 0 goes for a nap
+Customer 41 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 42 arrived at the shop
+Customer 42 wakes barber 0
+Barber 0 wakes up
+Customer 42 sits in barber's 0 chair
+Barber 0 gives customer 42 a haircut 
+Barber 2 finishes customer 37's haircut 
+Customer 37 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 37
+Barber 2 goes for a nap
+Customer 37 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 43 arrived at the shop
+Customer 43 wakes barber 2
+Barber 2 wakes up
+Customer 43 sits in barber's 2 chair
+Barber 2 gives customer 43 a haircut 
+Barber 1 finishes customer 38's haircut 
+Customer 38 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 38
+Barber 1 goes for a nap
+Customer 38 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 44 arrived at the shop
+Customer 44 wakes barber 1
+Barber 1 wakes up
+Customer 44 sits in barber's 1 chair
+Barber 1 gives customer 44 a haircut 
+Customer 45 arrived at the shop
+Customer 45 takes a seat in the waiting room
+Customer 46 arrived at the shop
+Customer 46 takes a seat in the waiting room
+Customer 47 arrived at the shop
+Customer 47 takes a seat in the waiting room
+Barber 0 finishes customer 42's haircut 
+Customer 42 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 42
+Barber 0 calls customer 45
+Barber 0 wakes up
+Customer 42 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 45 wakes barber 0
+Customer 45 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 45
+Barber 0 calls customer 46
+Barber 0 wakes up
+Customer 45 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 46 wakes barber 0
+Customer 46 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 46
+Barber 0 calls customer 47
+Barber 0 wakes upCustomer 
+46 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 47 wakes barber 0
+Customer 47 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 47
+Barber 0 goes for a nap
+Customer 47 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 48 arrived at the shop
+Customer 48 wakes barber 0
+Barber 0 wakes up
+Customer 48 sits in barber's 0 chair
+Barber 0 gives customer 48 a haircut 
+Barber 2 finishes customer 43's haircut 
+Customer 43 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 43
+Barber 2 goes for a nap
+Customer 43 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 49 arrived at the shop
+Customer 49 wakes barber 2
+Barber 2 wakes up
+Customer 49 sits in barber's 2 chair
+Barber 2 gives customer 49 a haircut 
+Barber 1 finishes customer 44's haircut 
+Customer 44 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 44
+Barber 1 goes for a nap
+Customer 44 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 50 arrived at the shop
+Customer 50 wakes barber 1
+Barber 1 wakes up
+Customer 50 sits in barber's 1 chair
+Barber 1 gives customer 50 a haircut 
+Customer 51 arrived at the shop
+Customer 51 takes a seat in the waiting room
+Customer 52 arrived at the shop
+Customer 52 takes a seat in the waiting room
+Customer 53 arrived at the shop
+Customer 53 takes a seat in the waiting room
+Barber 0 finishes customer 48's haircut 
+Customer 48 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 48
+Barber 0 calls customer 51
+Barber 0 wakes up
+Customer 48 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 51 wakes barber 0
+Customer 51 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 51
+Barber 0 calls customer 52
+Barber 0 wakes up
+Customer 51 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 52 wakes barber 0
+Customer 52 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 52
+Barber 0 calls customer 53
+Barber 0 wakes up
+Customer 52 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 53 wakes barber 0
+Customer 53 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 53
+Barber 0 goes for a nap
+Customer 53 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 54 arrived at the shop
+Customer 54 wakes barber 0
+Barber 0 wakes up
+Customer 54 sits in barber's 0 chair
+Barber 0 gives customer 54 a haircut 
+Barber 2 finishes customer 49's haircut 
+Customer 49 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 49
+Barber 2 goes for a nap
+Customer 49 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 55 arrived at the shop
+Customer 55 wakes barber 2
+Barber 2 wakes up
+Customer 55 sits in barber's 2 chair
+Barber 2 gives customer 55 a haircut 
+Barber 1 finishes customer 50's haircut 
+Customer 50 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 50
+Barber 1 goes for a nap
+Customer 50 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 56 arrived at the shop
+Customer 56 wakes barber 1
+Barber 1 wakes up
+Customer 56 sits in barber's 1 chair
+Barber 1 gives customer 56 a haircut 
+Customer 57 arrived at the shop
+Customer 57 takes a seat in the waiting room
+Customer 58 arrived at the shop
+Customer 58 takes a seat in the waiting room
+Customer 59 arrived at the shop
+Customer 59 takes a seat in the waiting room
+Barber 0 finishes customer 54's haircut 
+Customer 54 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 54
+Barber 0 calls customer 57
+Barber 0 wakes up
+Customer 54 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 57 wakes barber 0
+Customer 57 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 57
+Barber 0 calls customer 58
+Barber 0 wakes up
+Customer 57 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 58 wakes barber 0
+Customer 58 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 58
+Barber 0 calls customer 59
+Barber 0 wakes up
+Customer 58 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 59 wakes barber 0
+Customer 59 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 59
+Barber 0 goes for a nap
+Customer 59 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 60 arrived at the shop
+Customer 60 wakes barber 0
+Barber 0 wakes up
+Customer 60 sits in barber's 0 chair
+Barber 0 gives customer 60 a haircut 
+Barber 2 finishes customer 55's haircut 
+Customer 55 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 55
+Barber 2 goes for a nap
+Customer 55 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 61 arrived at the shop
+Customer 61 wakes barber 2
+Barber 2 wakes up
+Customer 61 sits in barber's 2 chair
+Barber 2 gives customer 61 a haircut 
+Barber 1 finishes customer 56's haircut 
+Customer 56 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 56
+Barber 1 goes for a nap
+Customer 56 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 62 arrived at the shop
+Customer 62 wakes barber 1
+Barber 1 wakes up
+Customer 62 sits in barber's 1 chair
+Barber 1 gives customer 62 a haircut 
+Customer 63 arrived at the shop
+Customer 63 takes a seat in the waiting room
+Customer 64 arrived at the shop
+Customer 64 takes a seat in the waiting room
+Customer 65 arrived at the shop
+Customer 65 takes a seat in the waiting room
+Barber 0 finishes customer 60's haircut 
+Customer 60 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 60
+Barber 0 calls customer 63
+Barber 0 wakes up
+Customer 60 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 63 wakes barber 0
+Customer 63 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 63
+Barber 0 calls customer 64
+Barber 0 wakes up
+Customer 63 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 64 wakes barber 0
+Customer 64 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 64
+Barber 0 calls customer 65
+Barber 0 wakes up
+Customer 64 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 65 wakes barber 0
+Customer 65 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 65
+Barber 0 goes for a nap
+Customer 65 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 66 arrived at the shop
+Customer 66 wakes barber 0
+Barber 0 wakes up
+Customer 66 sits in barber's 0 chair
+Barber 0 gives customer 66 a haircut 
+Barber 2 finishes customer 61's haircut 
+Customer 61 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 61
+Barber 2 goes for a nap
+Customer 61 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 67 arrived at the shop
+Customer 67 wakes barber 2
+Barber 2 wakes up
+Customer 67 sits in barber's 2 chair
+Barber 2 gives customer 67 a haircut 
+Barber 1 finishes customer 62's haircut 
+Customer 62 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 62
+Barber 1 goes for a nap
+Customer 62 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 68 arrived at the shop
+Customer 68 wakes barber 1
+Barber 1 wakes up
+Customer 68 sits in barber's 1 chair
+Barber 1 gives customer 68 a haircut 
+Customer 69 arrived at the shop
+Customer 69 takes a seat in the waiting room
+Customer 70 arrived at the shop
+Customer 70 takes a seat in the waiting room
+Customer 71 arrived at the shop
+Customer 71 takes a seat in the waiting room
+Barber 0 finishes customer 66's haircut 
+Customer 66 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 66
+Barber 0 calls customer 69
+Barber 0 wakes up
+Customer 66 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 69 wakes barber 0
+Customer 69 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 69
+Barber 0 calls customer 70
+Barber 0 wakes up
+Customer 69 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 70 wakes barber 0
+Customer 70 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 70
+Barber 0 calls customer 71
+Barber 0 wakes up
+Customer 70 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 71 wakes barber 0
+Customer 71 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 71
+Barber 0 goes for a nap
+Customer 71 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 72 arrived at the shop
+Customer 72 wakes barber 0
+Barber 0 wakes up
+Customer 72 sits in barber's 0 chair
+Barber 0 gives customer 72 a haircut 
+Barber 2 finishes customer 67's haircut 
+Customer 67 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 67
+Barber 2 goes for a nap
+Customer 67 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 73 arrived at the shop
+Customer 73 wakes barber 2
+Barber 2 wakes up
+Customer 73 sits in barber's 2 chair
+Barber 2 gives customer 73 a haircut 
+Barber 1 finishes customer 68's haircut 
+Customer 68 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 68
+Barber 1 goes for a nap
+Customer 68 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 74 arrived at the shop
+Customer 74 wakes barber 1
+Barber 1 wakes up
+Customer 74 sits in barber's 1 chair
+Barber 1 gives customer 74 a haircut 
+Customer 75 arrived at the shop
+Customer 75 takes a seat in the waiting room
+Customer 76 arrived at the shop
+Customer 76 takes a seat in the waiting room
+Customer 77 arrived at the shop
+Customer 77 takes a seat in the waiting room
+Barber 0 finishes customer 72's haircut 
+Customer 72 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 72
+Barber 0 calls customer 75
+Barber 0 wakes up
+Customer 72 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 75 wakes barber 0
+Customer 75 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 75
+Barber 0 calls customer 76
+Barber 0 wakes up
+Customer 75 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 76 wakes barber 0
+Customer 76 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 76
+Barber 0 calls customer 77
+Barber 0 wakes up
+Customer 76 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 77 wakes barber 0
+Customer 77 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 77
+Barber 0 goes for a nap
+Customer 77 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 78 arrived at the shop
+Customer 78 wakes barber 0
+Barber 0 wakes up
+Customer 78 sits in barber's 0 chair
+Barber 0 gives customer 78 a haircut 
+Barber 2 finishes customer 73's haircut 
+Customer 73 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 73
+Barber 2 goes for a nap
+Customer 73 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 79 arrived at the shop
+Customer 79 wakes barber 2
+Barber 2 wakes up
+Customer 79 sits in barber's 2 chair
+Barber 2 gives customer 79 a haircut 
+Barber 1 finishes customer 74's haircut 
+Customer 74 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 74
+Barber 1 goes for a nap
+Customer 74 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 80 arrived at the shop
+Customer 80 wakes barber 1
+Barber 1 wakes up
+Customer 80 sits in barber's 1 chair
+Barber 1 gives customer 80 a haircut 
+Customer 81 arrived at the shop
+Customer 81 takes a seat in the waiting room
+Customer 82 arrived at the shop
+Customer 82 takes a seat in the waiting room
+Customer 83 arrived at the shop
+Customer 83 takes a seat in the waiting room
+Barber 0 finishes customer 78's haircut 
+Customer 78 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 78
+Barber 0 calls customer 81
+Barber 0 wakes up
+Customer 78 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 81 wakes barber 0
+Customer 81 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 81
+Barber 0 calls customer 82
+Barber 0 wakes up
+Customer 81 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 82 wakes barber 0
+Customer 82 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 82
+Barber 0 calls customer 83
+Barber 0 wakes up
+Customer 82 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 83 wakes barber 0
+Customer 83 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 83
+Barber 0 goes for a nap
+Customer 83 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 84 arrived at the shop
+Customer 84 wakes barber 0
+Barber 0 wakes up
+Customer 84 sits in barber's 0 chair
+Barber 0 gives customer 84 a haircut 
+Barber 2 finishes customer 79's haircut 
+Customer 79 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 79
+Barber 2 goes for a nap
+Customer 79 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 85 arrived at the shop
+Customer 85 wakes barber 2
+Barber 2 wakes up
+Customer 85 sits in barber's 2 chair
+Barber 2 gives customer 85 a haircut 
+Barber 1 finishes customer 80's haircut 
+Customer 80 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 80
+Barber 1 goes for a nap
+Customer 80 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 86 arrived at the shop
+Customer 86 wakes barber 1
+Barber 1 wakes up
+Customer 86 sits in barber's 1 chair
+Barber 1 gives customer 86 a haircut 
+Customer 87 arrived at the shop
+Customer 87 takes a seat in the waiting room
+Customer 88 arrived at the shop
+Customer 88 takes a seat in the waiting room
+Customer 89 arrived at the shop
+Customer 89 takes a seat in the waiting room
+Barber 0 finishes customer 84's haircut 
+Customer 84 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 84
+Barber 0 calls customer 87
+Barber 0 wakes up
+Customer 84 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 87 wakes barber 0
+Customer 87 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 87
+Barber 0 calls customer 88
+Barber 0 wakes up
+Customer 87 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 88 wakes barber 0
+Customer 88 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 88
+Barber 0 calls customer 89
+Barber 0 wakes up
+Customer 88 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 89 wakes barber 0
+Customer 89 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 89
+Barber 0 goes for a nap
+Customer 89 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 90 arrived at the shop
+Customer 90 wakes barber 0
+Barber 0 wakes up
+Customer 90 sits in barber's 0 chair
+Barber 0 gives customer 90 a haircut 
+Barber 2 finishes customer 85's haircut 
+Customer 85 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 85
+Barber 2 goes for a nap
+Customer 85 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 91 arrived at the shop
+Customer 91 wakes barber 2
+Barber 2 wakes up
+Customer 91 sits in barber's 2 chair
+Barber 2 gives customer 91 a haircut 
+Barber 1 finishes customer 86's haircut 
+Customer 86 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 86
+Barber 1 goes for a nap
+Customer 86 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 92 arrived at the shop
+Customer 92 wakes barber 1
+Barber 1 wakes up
+Customer 92 sits in barber's 1 chair
+Barber 1 gives customer 92 a haircut 
+Customer 93 arrived at the shop
+Customer 93 takes a seat in the waiting room
+Customer 94 arrived at the shop
+Customer 94 takes a seat in the waiting room
+Customer 95 arrived at the shop
+Customer 95 takes a seat in the waiting room
+Barber 0 finishes customer 90's haircut 
+Customer 90 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 90
+Barber 0 calls customer 93
+Barber 0 wakes up
+Customer 90 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 93 wakes barber 0
+Customer 93 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 93
+Barber 0 calls customer 94
+Barber 0 wakes up
+Customer 93 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 94 wakes barber 0
+Customer 94 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 94
+Barber 0 calls customer 95
+Barber 0 wakes up
+Customer 95 wakes barber 0
+Customer 94 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 95 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 95
+Barber 0 goes for a nap
+Customer 95 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 96 arrived at the shop
+Customer 96 wakes barber 0
+Barber 0 wakes up
+Customer 96 sits in barber's 0 chair
+Barber 0 gives customer 96 a haircut 
+Barber 2 finishes customer 91's haircut 
+Customer 91 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 91
+Barber 2 goes for a nap
+Customer 91 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 97 arrived at the shop
+Customer 97 wakes barber 2
+Barber 2 wakes up
+Customer 97 sits in barber's 2 chair
+Barber 2 gives customer 97 a haircut 
+Barber 1 finishes customer 92's haircut 
+Customer 92 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 92
+Barber 1 goes for a nap
+Customer 92 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 98 arrived at the shop
+Customer 98 wakes barber 1
+Barber 1 wakes up
+Customer 98 sits in barber's 1 chair
+Barber 1 gives customer 98 a haircut 
+Customer 99 arrived at the shop
+Customer 99 takes a seat in the waiting room
+Customer 100 arrived at the shop
+Customer 100 takes a seat in the waiting room
+Customer 101 arrived at the shop
+Customer 101 takes a seat in the waiting room
+Barber 0 finishes customer 96's haircut 
+Customer 96 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 96
+Barber 0 calls customer 99
+Barber 0 wakes up
+Customer 96 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 99 wakes barber 0
+Customer 99 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 99
+Barber 0 calls customer 100
+Barber 0 wakes up
+Customer 99 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 100 wakes barber 0
+Customer 100 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 100
+Barber 0 calls customer 101
+Barber 0 wakes up
+Customer 100 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 101 wakes barber 0
+Customer 101 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 101
+Barber 0 goes for a nap
+Customer 101 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 102 arrived at the shop
+Customer 102 wakes barber 0
+Barber 0 wakes up
+Customer 102 sits in barber's 0 chair
+Barber 0 gives customer 102 a haircut 
+Barber 2 finishes customer 97's haircut 
+Customer 97 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 97
+Barber 2 goes for a nap
+Customer 97 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 103 arrived at the shop
+Customer 103 wakes barber 2
+Barber 2 wakes up
+Customer 103 sits in barber's 2 chair
+Barber 2 gives customer 103 a haircut 
+Barber 1 finishes customer 98's haircut 
+Customer 98 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 98
+Barber 1 goes for a nap
+Customer 98 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 104 arrived at the shop
+Customer 104 wakes barber 1
+Barber 1 wakes up
+Customer 104 sits in barber's 1 chair
+Barber 1 gives customer 104 a haircut 
+Customer 105 arrived at the shop
+Customer 105 takes a seat in the waiting room
+Customer 106 arrived at the shop
+Customer 106 takes a seat in the waiting room
+Customer 107 arrived at the shop
+Customer 107 takes a seat in the waiting room
+Barber 0 finishes customer 102's haircut 
+Customer 102 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 102
+Barber 0 calls customer 105
+Barber 0 wakes up
+Customer 102 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 105 wakes barber 0
+Customer 105 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 105
+Barber 0 calls customer 106
+Barber Customer 105 leaves statisfied0
+Calling Customer destructor: Deleting customer
+Customer 106 wakes barber 0
+ wakes up
+Customer 106 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 106
+Barber 0 calls customer 107
+Customer Barber 0106 wakes up leaves statisfied
+
+Calling Customer destructor: Deleting customer
+Customer 107 wakes barber 0
+Customer 107 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 107
+Barber 0 goes for a nap
+Customer 107 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 108 arrived at the shop
+Customer 108 wakes barber 0
+Barber 0 wakes up
+Customer 108 sits in barber's 0 chair
+Barber 0 gives customer 108 a haircut 
+Barber 2 finishes customer 103's haircut 
+Customer 103 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 103
+Barber 2 goes for a nap
+Customer 103 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 109 arrived at the shop
+Customer 109 wakes barber 2
+Barber 2 wakes up
+Customer 109 sits in barber's 2 chair
+Barber 2 gives customer 109 a haircut 
+Barber 1 finishes customer 104's haircut 
+Customer 104 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 104
+Barber 1 goes for a nap
+Customer 104 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 110 arrived at the shop
+Customer 110 wakes barber 1
+Barber 1 wakes up
+Customer 110 sits in barber's 1 chair
+Barber 1 gives customer 110 a haircut 
+Customer 111 arrived at the shop
+Customer 111 takes a seat in the waiting room
+Customer 112 arrived at the shop
+Customer 112 takes a seat in the waiting room
+Customer 113 arrived at the shop
+Customer 113 takes a seat in the waiting room
+Barber 0 finishes customer 108's haircut 
+Customer 108 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 108
+Barber 0 calls customer 111
+Barber 0 wakes up
+Customer 108 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 111 wakes barber 0
+Customer 111 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 111
+Barber 0 calls customer 112
+Barber 0 wakes up
+Customer 111 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 112 wakes barber 0
+Customer 112 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 112
+Barber 0 calls customer 113
+Barber 0 wakes up
+Customer 112 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 113 wakes barber 0
+Customer 113 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 113
+Barber 0 goes for a nap
+Customer 113 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 114 arrived at the shop
+Customer 114 wakes barber 0
+Barber 0 wakes up
+Customer 114 sits in barber's 0 chair
+Barber 0 gives customer 114 a haircut 
+Barber 2 finishes customer 109's haircut 
+Customer 109 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 109
+Barber 2 goes for a nap
+Customer 109 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 115 arrived at the shop
+Customer 115 wakes barber 2
+Barber 2 wakes up
+Customer 115 sits in barber's 2 chair
+Barber 2 gives customer 115 a haircut 
+Barber 1 finishes customer 110's haircut 
+Customer 110 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 110
+Barber 1 goes for a nap
+Customer 110 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 116 arrived at the shop
+Customer 116 wakes barber 1
+Barber 1 wakes up
+Customer 116 sits in barber's 1 chair
+Barber 1 gives customer 116 a haircut 
+Customer 117 arrived at the shop
+Customer 117 takes a seat in the waiting room
+Customer 118 arrived at the shop
+Customer 118 takes a seat in the waiting room
+Customer 119 arrived at the shop
+Customer 119 takes a seat in the waiting room
+Barber 0 finishes customer 114's haircut 
+Customer 114 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 114
+Barber 0 calls customer 117
+Barber 0 wakes up
+Customer 114 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 117 wakes barber 0
+Customer 117 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 117
+Barber 0 calls customer 118
+Barber 0 wakes up
+Customer 117 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 118 wakes barber 0
+Customer 118 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 118
+Barber 0 calls customer 119
+Barber 0 wakes up
+Customer 118 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 119 wakes barber 0
+Customer 119 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 119
+Barber 0 goes for a nap
+Customer 119 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 120 arrived at the shop
+Customer 120 wakes barber 0
+Barber 0 wakes up
+Customer 120 sits in barber's 0 chair
+Barber 0 gives customer 120 a haircut 
+Barber 2 finishes customer 115's haircut 
+Customer 115 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 115
+Barber 2 goes for a nap
+Customer 115 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 121 arrived at the shop
+Customer 121 wakes barber 2
+Barber 2 wakes up
+Customer 121 sits in barber's 2 chair
+Barber 2 gives customer 121 a haircut 
+Barber 1 finishes customer 116's haircut 
+Customer 116 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 116
+Barber 1 goes for a nap
+Customer 116 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 122 arrived at the shop
+Customer 122 wakes barber 1
+Barber 1 wakes up
+Customer 122 sits in barber's 1 chair
+Barber 1 gives customer 122 a haircut 
+Customer 123 arrived at the shop
+Customer 123 takes a seat in the waiting room
+Customer 124 arrived at the shop
+Customer 124 takes a seat in the waiting room
+Customer 125 arrived at the shop
+Customer 125 takes a seat in the waiting room
+Barber 0 finishes customer 120's haircut 
+Customer 120 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 120
+Barber 0 calls customer 123
+Barber 0 wakes up
+Customer 120 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 123 wakes barber 0
+Customer 123 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 123
+Barber 0 calls customer 124
+Barber 0 wakes up
+Customer 123 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 124 wakes barber 0
+Customer 124 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 124
+Barber 0 calls customer 125
+Barber 0 wakes up
+Customer 124 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 125 wakes barber 0
+Customer 125 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 125
+Barber 0 goes for a nap
+Customer 125 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 126 arrived at the shop
+Customer 126 wakes barber 0
+Barber 0 wakes up
+Customer 126 sits in barber's 0 chair
+Barber 0 gives customer 126 a haircut 
+Barber 2 finishes customer 121's haircut 
+Customer 121 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 121
+Barber 2 goes for a nap
+Customer 121 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 127 arrived at the shop
+Customer 127 wakes barber 2
+Barber 2 wakes up
+Customer 127 sits in barber's 2 chair
+Barber 2 gives customer 127 a haircut 
+Barber 1 finishes customer 122's haircut 
+Customer 122 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 122
+Barber 1 goes for a nap
+Customer 122 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 128 arrived at the shop
+Customer 128 wakes barber 1
+Barber 1 wakes up
+Customer 128 sits in barber's 1 chair
+Barber 1 gives customer 128 a haircut 
+Customer 129 arrived at the shop
+Customer 129 takes a seat in the waiting room
+Customer 130 arrived at the shop
+Customer 130 takes a seat in the waiting room
+Customer 131 arrived at the shop
+Customer 131 takes a seat in the waiting room
+Barber 0 finishes customer 126's haircut 
+Customer 126 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 126
+Barber 0 calls customer 129
+Barber 0 wakes up
+Customer 126 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 129 wakes barber 0
+Customer 129 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 129
+Barber 0 calls customer 130
+Barber 0 wakes up
+Customer 129 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 130 wakes barber 0
+Customer 130 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 130
+Barber 0 calls customer 131
+Barber 0 wakes up
+Customer 130 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 131 wakes barber 0
+Customer 131 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 131
+Barber 0 goes for a nap
+Customer 131 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 132 arrived at the shop
+Customer 132 wakes barber 0
+Barber 0 wakes up
+Customer 132 sits in barber's 0 chair
+Barber 0 gives customer 132 a haircut 
+Barber 2 finishes customer 127's haircut 
+Customer 127 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 127
+Barber 2 goes for a nap
+Customer 127 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 133 arrived at the shop
+Customer 133 wakes barber 2
+Barber 2 wakes up
+Customer 133 sits in barber's 2 chair
+Barber 2 gives customer 133 a haircut 
+Barber 1 finishes customer 128's haircut 
+Customer 128 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 128
+Barber 1 goes for a nap
+Customer 128 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 134 arrived at the shop
+Customer 134 wakes barber 1
+Barber 1 wakes up
+Customer 134 sits in barber's 1 chair
+Barber 1 gives customer 134 a haircut 
+Customer 135 arrived at the shop
+Customer 135 takes a seat in the waiting room
+Customer 136 arrived at the shop
+Customer 136 takes a seat in the waiting room
+Customer 137 arrived at the shop
+Customer 137 takes a seat in the waiting room
+Barber 0 finishes customer 132's haircut 
+Customer 132 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 132
+Barber 0 calls customer 135
+Barber 0 wakes up
+Customer 132 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 135 wakes barber 0
+Customer 135 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 135
+Barber 0 calls customer 136
+Barber 0 wakes up
+Customer 135 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 136 wakes barber 0
+Customer 136 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 136
+Barber 0 calls customer 137
+Barber 0 wakes up
+Customer 136 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 137 wakes barber 0
+Customer 137 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 137
+Barber 0 goes for a nap
+Customer 137 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 138 arrived at the shop
+Customer 138 wakes barber 0
+Barber 0 wakes up
+Customer 138 sits in barber's 0 chair
+Barber 0 gives customer 138 a haircut 
+Barber 2 finishes customer 133's haircut 
+Customer 133 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 133
+Barber 2 goes for a nap
+Customer 133 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 139 arrived at the shop
+Customer 139 wakes barber 2
+Barber 2 wakes up
+Customer 139 sits in barber's 2 chair
+Barber 2 gives customer 139 a haircut 
+Barber 1 finishes customer 134's haircut 
+Customer 134 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 134
+Barber 1 goes for a nap
+Customer 134 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 140 arrived at the shop
+Customer 140 wakes barber 1
+Barber 1 wakes up
+Customer 140 sits in barber's 1 chair
+Barber 1 gives customer 140 a haircut 
+Customer 141 arrived at the shop
+Customer 141 takes a seat in the waiting room
+Customer 142 arrived at the shop
+Customer 142 takes a seat in the waiting room
+Customer 143 arrived at the shop
+Customer 143 takes a seat in the waiting room
+Barber 0 finishes customer 138's haircut 
+Customer 138 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 138
+Barber 0 calls customer 141
+Barber 0 wakes up
+Customer 138 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 141 wakes barber 0
+Customer 141 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 141
+Barber 0 calls customer 142
+Barber 0 wakes up
+Customer 141 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 142 wakes barber 0
+Customer 142 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 142
+Barber 0 calls customer 143
+Barber 0 wakes up
+Customer 142 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 143 wakes barber 0
+Customer 143 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 143
+Barber 0 goes for a nap
+Customer 143 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 144 arrived at the shop
+Customer 144 wakes barber 0
+Barber 0 wakes up
+Customer 144 sits in barber's 0 chair
+Barber 0 gives customer 144 a haircut 
+Barber 2 finishes customer 139's haircut 
+Customer 139 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 139
+Barber 2 goes for a nap
+Customer 139 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 145 arrived at the shop
+Customer 145 wakes barber 2
+Barber 2 wakes up
+Customer 145 sits in barber's 2 chair
+Barber 2 gives customer 145 a haircut 
+Barber 1 finishes customer 140's haircut 
+Customer 140 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 140
+Barber 1 goes for a nap
+Customer 140 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 146 arrived at the shop
+Customer 146 wakes barber 1
+Barber 1 wakes up
+Customer 146 sits in barber's 1 chair
+Barber 1 gives customer 146 a haircut 
+Customer 147 arrived at the shop
+Customer 147 takes a seat in the waiting room
+Customer 148 arrived at the shop
+Customer 148 takes a seat in the waiting room
+Customer 149 arrived at the shop
+Customer 149 takes a seat in the waiting room
+Barber 0 finishes customer 144's haircut 
+Customer 144 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 144
+Barber 0 calls customer 147
+Barber 0 wakes up
+Customer 144 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 147 wakes barber 0
+Customer 147 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 147
+Barber 0 calls customer 148
+Barber 0 wakes up
+Customer 147 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 148 wakes barber 0
+Customer 148 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 148
+Barber 0 calls customer 149
+Barber 0 wakes up
+Customer 148 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 149 wakes barber 0
+Customer 149 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 149
+Barber 0 goes for a nap
+Customer 149 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 150 arrived at the shop
+Customer 150 wakes barber 0
+Barber 0 wakes up
+Customer 150 sits in barber's 0 chair
+Barber 0 gives customer 150 a haircut 
+Barber 2 finishes customer 145's haircut 
+Customer 145 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 145
+Barber 2 goes for a nap
+Customer 145 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 151 arrived at the shop
+Customer 151 wakes barber 2
+Barber 2 wakes up
+Customer 151 sits in barber's 2 chair
+Barber 2 gives customer 151 a haircut 
+Barber 1 finishes customer 146's haircut 
+Customer 146 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 146
+Barber 1 goes for a nap
+Customer 146 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 152 arrived at the shop
+Customer 152 wakes barber 1
+Barber 1 wakes up
+Customer 152 sits in barber's 1 chair
+Barber 1 gives customer 152 a haircut 
+Customer 153 arrived at the shop
+Customer 153 takes a seat in the waiting room
+Customer 154 arrived at the shop
+Customer 154 takes a seat in the waiting room
+Customer 155 arrived at the shop
+Customer 155 takes a seat in the waiting room
+Barber 0 finishes customer 150's haircut 
+Customer 150 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 150
+Barber 0 calls customer 153
+Barber 0 wakes up
+Customer 150 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 153 wakes barber 0
+Customer 153 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 153
+Barber 0 calls customer 154
+Barber 0 wakes up
+Customer 153 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 154 wakes barber 0
+Customer 154 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 154
+Barber 0 calls customer 155
+Barber 0 wakes up
+Customer 154 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 155 wakes barber 0
+Customer 155 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 155
+Barber 0 goes for a nap
+Customer 155 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 156 arrived at the shop
+Customer 156 wakes barber 0
+Barber 0 wakes up
+Customer 156 sits in barber's 0 chair
+Barber 0 gives customer 156 a haircut 
+Barber 2 finishes customer 151's haircut 
+Customer 151 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 151
+Barber 2 goes for a nap
+Customer 151 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 157 arrived at the shop
+Customer 157 wakes barber 2
+Barber 2 wakes up
+Customer 157 sits in barber's 2 chair
+Barber 2 gives customer 157 a haircut 
+Barber 1 finishes customer 152's haircut 
+Customer 152 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 152
+Barber 1 goes for a nap
+Customer 152 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 158 arrived at the shop
+Customer 158 wakes barber 1
+Barber 1 wakes up
+Customer 158 sits in barber's 1 chair
+Barber 1 gives customer 158 a haircut 
+Customer 159 arrived at the shop
+Customer 159 takes a seat in the waiting room
+Customer 160 arrived at the shop
+Customer 160 takes a seat in the waiting room
+Customer 161 arrived at the shop
+Customer 161 takes a seat in the waiting room
+Barber 0 finishes customer 156's haircut 
+Customer 156 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 156
+Barber 0 calls customer 159
+Barber 0 wakes up
+Customer 156 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 159 wakes barber 0
+Customer 159 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 159
+Barber 0 calls customer 160
+Barber 0 wakes up
+Customer 159 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 160 wakes barber 0
+Customer 160 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 160
+Barber 0 calls customer 161
+Barber 0 wakes up
+Customer 160 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 161 wakes barber 0
+Customer 161 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 161
+Barber 0 goes for a nap
+Customer 161 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 162 arrived at the shop
+Customer 162 wakes barber 0
+Barber 0 wakes up
+Customer 162 sits in barber's 0 chair
+Barber 0 gives customer 162 a haircut 
+Barber 2 finishes customer 157's haircut 
+Customer 157 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 157
+Barber 2 goes for a nap
+Customer 157 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 163 arrived at the shop
+Customer 163 wakes barber 2
+Barber 2 wakes up
+Customer 163 sits in barber's 2 chair
+Barber 2 gives customer 163 a haircut 
+Barber 1 finishes customer 158's haircut 
+Customer 158 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 158
+Barber 1 goes for a nap
+Customer 158 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 164 arrived at the shop
+Customer 164 wakes barber 1
+Barber 1 wakes up
+Customer 164 sits in barber's 1 chair
+Barber 1 gives customer 164 a haircut 
+Customer 165 arrived at the shop
+Customer 165 takes a seat in the waiting room
+Customer 166 arrived at the shop
+Customer 166 takes a seat in the waiting room
+Customer 167 arrived at the shop
+Customer 167 takes a seat in the waiting room
+Barber 0 finishes customer 162's haircut 
+Customer 162 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 162
+Barber 0 calls customer 165
+Barber 0 wakes up
+Customer 162 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 165 wakes barber 0
+Customer 165 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 165
+Barber 0 calls customer 166
+Barber 0 wakes up
+Customer 165 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 166 wakes barber 0
+Customer 166 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 166
+Barber 0 calls customer 167
+Barber 0 wakes up
+Customer 166 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 167 wakes barber 0
+Customer 167 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 167
+Barber 0 goes for a nap
+Customer 167 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 168 arrived at the shop
+Customer 168 wakes barber 0
+Barber 0 wakes up
+Customer 168 sits in barber's 0 chair
+Barber 0 gives customer 168 a haircut 
+Barber 2 finishes customer 163's haircut 
+Customer 163 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 163
+Barber 2 goes for a nap
+Customer 163 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 169 arrived at the shop
+Customer 169 wakes barber 2
+Barber 2 wakes up
+Customer 169 sits in barber's 2 chair
+Barber 2 gives customer 169 a haircut 
+Barber 1 finishes customer 164's haircut 
+Customer 164 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 164
+Barber 1 goes for a nap
+Customer 164 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 170 arrived at the shop
+Customer 170 wakes barber 1
+Barber 1 wakes up
+Customer 170 sits in barber's 1 chair
+Barber 1 gives customer 170 a haircut 
+Customer 171 arrived at the shop
+Customer 171 takes a seat in the waiting room
+Customer 172 arrived at the shop
+Customer 172 takes a seat in the waiting room
+Customer 173 arrived at the shop
+Customer 173 takes a seat in the waiting room
+Barber 0 finishes customer 168's haircut 
+Customer 168 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 168
+Barber 0 calls customer 171
+Barber 0 wakes up
+Customer 168 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 171 wakes barber 0
+Customer 171 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 171
+Barber 0 calls customer 172
+Barber 0 wakes up
+Customer 171 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 172 wakes barber 0
+Customer 172 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 172
+Barber 0 calls customer 173
+Barber 0 wakes up
+Customer 172 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 173 wakes barber 0
+Customer 173 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 173
+Barber 0 goes for a nap
+Customer 173 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 174 arrived at the shop
+Customer 174 wakes barber 0
+Barber 0 wakes up
+Customer 174 sits in barber's 0 chair
+Barber 0 gives customer 174 a haircut 
+Barber 2 finishes customer 169's haircut 
+Customer 169 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 169
+Barber 2 goes for a nap
+Customer 169 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 175 arrived at the shop
+Customer 175 wakes barber 2
+Barber 2 wakes up
+Customer 175 sits in barber's 2 chair
+Barber 2 gives customer 175 a haircut 
+Barber 1 finishes customer 170's haircut 
+Customer 170 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 170
+Barber 1 goes for a nap
+Customer 170 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 176 arrived at the shop
+Customer 176 wakes barber 1
+Barber 1 wakes up
+Customer 176 sits in barber's 1 chair
+Barber 1 gives customer 176 a haircut 
+Customer 177 arrived at the shop
+Customer 177 takes a seat in the waiting room
+Customer 178 arrived at the shop
+Customer 178 takes a seat in the waiting room
+Customer 179 arrived at the shop
+Customer 179 takes a seat in the waiting room
+Barber 0 finishes customer 174's haircut 
+Customer 174 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 174
+Barber 0 calls customer 177
+Barber 0 wakes up
+Customer 174 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 177 wakes barber 0
+Customer 177 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 177
+Barber 0 calls customer 178
+Barber 0 wakes up
+Customer 177 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 178 wakes barber 0
+Customer 178 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 178
+Barber 0 calls customer 179
+Barber 0 wakes up
+Customer 178 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 179 wakes barber 0
+Customer 179 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 179
+Barber 0 goes for a nap
+Customer 179 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 180 arrived at the shop
+Customer 180 wakes barber 0
+Barber 0 wakes up
+Customer 180 sits in barber's 0 chair
+Barber 0 gives customer 180 a haircut 
+Barber 2 finishes customer 175's haircut 
+Customer 175 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 175
+Barber 2 goes for a nap
+Customer 175 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 181 arrived at the shop
+Customer 181 wakes barber 2
+Barber 2 wakes up
+Customer 181 sits in barber's 2 chair
+Barber 2 gives customer 181 a haircut 
+Barber 1 finishes customer 176's haircut 
+Customer 176 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 176
+Barber 1 goes for a nap
+Customer 176 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 182 arrived at the shop
+Customer 182 wakes barber 1
+Barber 1 wakes up
+Customer 182 sits in barber's 1 chair
+Barber 1 gives customer 182 a haircut 
+Customer 183 arrived at the shop
+Customer 183 takes a seat in the waiting room
+Customer 184 arrived at the shop
+Customer 184 takes a seat in the waiting room
+Customer 185 arrived at the shop
+Customer 185 takes a seat in the waiting room
+Barber 0 finishes customer 180's haircut 
+Customer 180 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 180
+Barber 0 calls customer 183
+Barber 0 wakes up
+Customer 180 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 183 wakes barber 0
+Customer 183 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 183
+Barber 0 calls customer 184
+Barber 0 wakes up
+Customer 183 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 184 wakes barber 0
+Customer 184 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 184
+Barber 0 calls customer 185
+Barber 0 wakes up
+Customer 184 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 185 wakes barber 0
+Customer 185 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 185
+Barber 0 goes for a nap
+Customer 185 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 186 arrived at the shop
+Customer 186 wakes barber 0
+Barber 0 wakes up
+Customer 186 sits in barber's 0 chair
+Barber 0 gives customer 186 a haircut 
+Barber 2 finishes customer 181's haircut 
+Customer 181 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 181
+Barber 2 goes for a nap
+Customer 181 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 187 arrived at the shop
+Customer 187 wakes barber 2
+Barber 2 wakes up
+Customer 187 sits in barber's 2 chair
+Barber 2 gives customer 187 a haircut 
+Barber 1 finishes customer 182's haircut 
+Customer 182 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 182
+Barber 1 goes for a nap
+Customer 182 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 188 arrived at the shop
+Customer 188 wakes barber 1
+Barber 1 wakes up
+Customer 188 sits in barber's 1 chair
+Barber 1 gives customer 188 a haircut 
+Customer 189 arrived at the shop
+Customer 189 takes a seat in the waiting room
+Customer 190 arrived at the shop
+Customer 190 takes a seat in the waiting room
+Customer 191 arrived at the shop
+Customer 191 takes a seat in the waiting room
+Barber 0 finishes customer 186's haircut 
+Customer 186 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 186
+Barber 0 calls customer 189
+Barber 0 wakes up
+Customer 186 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 189 wakes barber 0
+Customer 189 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 189
+Barber 0 calls customer 190
+Barber 0 wakes up
+Customer 189 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 190 wakes barber 0
+Customer 190 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 190
+Barber 0 calls customer 191
+Barber 0 wakes up
+Customer 190 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 191 wakes barber 0
+Customer 191 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 191
+Barber 0 goes for a nap
+Customer 191 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 192 arrived at the shop
+Customer 192 wakes barber 0
+Barber 0 wakes up
+Customer 192 sits in barber's 0 chair
+Barber 0 gives customer 192 a haircut 
+Barber 2 finishes customer 187's haircut 
+Customer 187 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 187
+Barber 2 goes for a nap
+Customer 187 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 193 arrived at the shop
+Customer 193 wakes barber 2
+Barber 2 wakes up
+Customer 193 sits in barber's 2 chair
+Barber 2 gives customer 193 a haircut 
+Barber 1 finishes customer 188's haircut 
+Customer 188 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 188
+Barber 1 goes for a nap
+Customer 188 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 194 arrived at the shop
+Customer 194 wakes barber 1
+Barber 1 wakes up
+Customer 194 sits in barber's 1 chair
+Barber 1 gives customer 194 a haircut 
+Customer 195 arrived at the shop
+Customer 195 takes a seat in the waiting room
+Customer 196 arrived at the shop
+Customer 196 takes a seat in the waiting room
+Customer 197 arrived at the shop
+Customer 197 takes a seat in the waiting room
+Barber 0 finishes customer 192's haircut 
+Customer 192 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 192
+Barber 0 calls customer 195
+Barber 0 wakes up
+Customer 192 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 195 wakes barber 0
+Customer 195 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 195
+Barber 0 calls customer 196
+Barber 0 wakes up
+Customer 196 wakes barber 0
+Customer 196 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 196
+Barber 0 calls customer 197
+Customer Barber 0 wakes up
+196 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 195 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 197 wakes barber 0
+Customer 197 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 197
+Barber 0 goes for a nap
+Customer 197 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 198 arrived at the shop
+Customer 198 wakes barber 0
+Barber 0 wakes up
+Customer 198 sits in barber's 0 chair
+Barber 0 gives customer 198 a haircut 
+Barber 2 finishes customer 193's haircut 
+Customer 193 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 193
+Barber 2 goes for a nap
+Customer 193 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 199 arrived at the shop
+Customer 199 wakes barber 2
+Barber 2 wakes up
+Customer 199 sits in barber's 2 chair
+Barber 2 gives customer 199 a haircut 
+Barber 1 finishes customer 194's haircut 
+Customer 194 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 194
+Barber 1 goes for a nap
+Customer 194 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 200 arrived at the shop
+Customer 200 wakes barber 1
+Barber 1 wakes up
+Customer 200 sits in barber's 1 chair
+Barber 1 gives customer 200 a haircut 
+Customer 201 arrived at the shop
+Customer 201 takes a seat in the waiting room
+Customer 202 arrived at the shop
+Customer 202 takes a seat in the waiting room
+Customer 203 arrived at the shop
+Customer 203 takes a seat in the waiting room
+Barber 0 finishes customer 198's haircut 
+Customer 198 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 198
+Barber 0 calls customer 201
+Barber 0 wakes up
+Customer 198 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 201 wakes barber 0
+Customer 201 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 201
+Barber 0 calls customer 202
+Barber 0 wakes up
+Customer 201 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 202 wakes barber 0
+Customer 202 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 202
+Barber 0 calls customer 203
+Barber 0 wakes up
+Customer 202 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 203 wakes barber 0
+Customer 203 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 203
+Barber 0 goes for a nap
+Customer 203 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 204 arrived at the shop
+Customer 204 wakes barber 0
+Barber 0 wakes up
+Customer 204 sits in barber's 0 chair
+Barber 0 gives customer 204 a haircut 
+Barber 2 finishes customer 199's haircut 
+Customer 199 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 199
+Barber 2 goes for a nap
+Customer 199 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 205 arrived at the shop
+Customer 205 wakes barber 2
+Barber 2 wakes up
+Customer 205 sits in barber's 2 chair
+Barber 2 gives customer 205 a haircut 
+Barber 1 finishes customer 200's haircut 
+Customer 200 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 200
+Barber 1 goes for a nap
+Customer 200 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 206 arrived at the shop
+Customer 206 wakes barber 1
+Barber 1 wakes up
+Customer 206 sits in barber's 1 chair
+Barber 1 gives customer 206 a haircut 
+Customer 207 arrived at the shop
+Customer 207 takes a seat in the waiting room
+Customer 208 arrived at the shop
+Customer 208 takes a seat in the waiting room
+Customer 209 arrived at the shop
+Customer 209 takes a seat in the waiting room
+Barber 0 finishes customer 204's haircut 
+Customer 204 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 204
+Barber 0 calls customer 207
+Barber 0 wakes up
+Customer 204 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 207 wakes barber 0
+Customer 207 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 207
+Barber 0 calls customer 208
+Barber 0 wakes up
+Customer 207 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 208 wakes barber 0
+Customer 208 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 208
+Barber 0 calls customer 209
+Barber 0 wakes up
+Customer 208 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 209 wakes barber 0
+Customer 209 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 209
+Barber 0 goes for a nap
+Customer 209 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 210 arrived at the shop
+Customer 210 wakes barber 0
+Barber 0 wakes up
+Customer 210 sits in barber's 0 chair
+Barber 0 gives customer 210 a haircut 
+Barber 2 finishes customer 205's haircut 
+Customer 205 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 205
+Barber 2 goes for a nap
+Customer 205 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 211 arrived at the shop
+Customer 211 wakes barber 2
+Barber 2 wakes up
+Customer 211 sits in barber's 2 chair
+Barber 2 gives customer 211 a haircut 
+Barber 1 finishes customer 206's haircut 
+Customer 206 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 206
+Barber 1 goes for a nap
+Customer 206 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 212 arrived at the shop
+Customer 212 wakes barber 1
+Barber 1 wakes up
+Customer 212 sits in barber's 1 chair
+Barber 1 gives customer 212 a haircut 
+Customer 213 arrived at the shop
+Customer 213 takes a seat in the waiting room
+Customer 214 arrived at the shop
+Customer 214 takes a seat in the waiting room
+Customer 215 arrived at the shop
+Customer 215 takes a seat in the waiting room
+Barber 0 finishes customer 210's haircut 
+Customer 210 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 210
+Barber 0 calls customer 213
+Barber 0 wakes up
+Customer 210 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 213 wakes barber 0
+Customer 213 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 213
+Barber 0 calls customer 214
+Barber 0 wakes up
+Customer 213 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 214 wakes barber 0
+Customer 214 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 214
+Barber 0 calls customer 215
+Barber 0 wakes up
+Customer 214 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 215 wakes barber 0
+Customer 215 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 215
+Barber 0 goes for a nap
+Customer 215 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 216 arrived at the shop
+Customer 216 wakes barber 0
+Barber 0 wakes up
+Customer 216 sits in barber's 0 chair
+Barber 0 gives customer 216 a haircut 
+Barber 2 finishes customer 211's haircut 
+Customer 211 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 211
+Barber 2 goes for a nap
+Customer 211 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 217 arrived at the shop
+Customer 217 wakes barber 2
+Barber 2 wakes up
+Customer 217 sits in barber's 2 chair
+Barber 2 gives customer 217 a haircut 
+Barber 1 finishes customer 212's haircut 
+Customer 212 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 212
+Barber 1 goes for a nap
+Customer 212 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 218 arrived at the shop
+Customer 218 wakes barber 1
+Barber 1 wakes up
+Customer 218 sits in barber's 1 chair
+Barber 1 gives customer 218 a haircut 
+Customer 219 arrived at the shop
+Customer 219 takes a seat in the waiting room
+Customer 220 arrived at the shop
+Customer 220 takes a seat in the waiting room
+Customer 221 arrived at the shop
+Customer 221 takes a seat in the waiting room
+Barber 0 finishes customer 216's haircut 
+Customer 216 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 216
+Barber 0 calls customer 219
+Barber 0 wakes up
+Customer 216 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 219 wakes barber 0
+Customer 219 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 219
+Barber 0 calls customer 220
+Barber 0 wakes up
+Customer 219 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 220 wakes barber 0
+Customer 220 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 220
+Barber 0 calls customer 221
+Barber 0 wakes up
+Customer 220 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 221 wakes barber 0
+Customer 221 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 221
+Barber 0 goes for a nap
+Customer 221 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 222 arrived at the shop
+Customer 222 wakes barber 0
+Barber 0 wakes up
+Customer 222 sits in barber's 0 chair
+Barber 0 gives customer 222 a haircut 
+Barber 2 finishes customer 217's haircut 
+Customer 217 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 217
+Barber 2 goes for a nap
+Customer 217 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 223 arrived at the shop
+Customer 223 wakes barber 2
+Barber 2 wakes up
+Customer 223 sits in barber's 2 chair
+Barber 2 gives customer 223 a haircut 
+Barber 1 finishes customer 218's haircut 
+Customer 218 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 218
+Barber 1 goes for a nap
+Customer 218 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 224 arrived at the shop
+Customer 224 wakes barber 1
+Barber 1 wakes up
+Customer 224 sits in barber's 1 chair
+Barber 1 gives customer 224 a haircut 
+Customer 225 arrived at the shop
+Customer 225 takes a seat in the waiting room
+Customer 226 arrived at the shop
+Customer 226 takes a seat in the waiting room
+Customer 227 arrived at the shop
+Customer 227 takes a seat in the waiting room
+Barber 0 finishes customer 222's haircut 
+Customer 222 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 222
+Barber 0 calls customer 225
+Barber 0 wakes up
+Customer 222 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 225 wakes barber 0
+Customer 225 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 225
+Barber 0 calls customer 226
+Barber 0 wakes up
+Customer 225 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 226 wakes barber 0
+Customer 226 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 226
+Barber 0 calls customer 227
+Barber 0 wakes up
+Customer 226 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 227 wakes barber 0
+Customer 227 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 227
+Barber 0 goes for a nap
+Customer 227 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 228 arrived at the shop
+Customer 228 wakes barber 0
+Barber 0 wakes up
+Customer 228 sits in barber's 0 chair
+Barber 0 gives customer 228 a haircut 
+Barber 2 finishes customer 223's haircut 
+Customer 223 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 223
+Barber 2 goes for a nap
+Customer 223 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 229 arrived at the shop
+Customer 229 wakes barber 2
+Barber 2 wakes up
+Customer 229 sits in barber's 2 chair
+Barber 2 gives customer 229 a haircut 
+Barber 1 finishes customer 224's haircut 
+Customer 224 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 224
+Barber 1 goes for a nap
+Customer 224 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 230 arrived at the shop
+Customer 230 wakes barber 1
+Barber 1 wakes up
+Customer 230 sits in barber's 1 chair
+Barber 1 gives customer 230 a haircut 
+Customer 231 arrived at the shop
+Customer 231 takes a seat in the waiting room
+Customer 232 arrived at the shop
+Customer 232 takes a seat in the waiting room
+Customer 233 arrived at the shop
+Customer 233 takes a seat in the waiting room
+Barber 0 finishes customer 228's haircut 
+Customer 228 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 228
+Barber 0 calls customer 231
+Barber 0 wakes up
+Customer 228 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 231 wakes barber 0
+Customer 231 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 231
+Barber 0 calls customer 232
+Barber 0 wakes up
+Customer 231 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 232 wakes barber 0
+Customer 232 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 232
+Barber 0 calls customer 233
+Barber 0 wakes up
+Customer 232 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 233 wakes barber 0
+Customer 233 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 233
+Barber 0 goes for a nap
+Customer 233 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 234 arrived at the shop
+Customer 234 wakes barber 0
+Barber 0 wakes up
+Customer 234 sits in barber's 0 chair
+Barber 0 gives customer 234 a haircut 
+Barber 2 finishes customer 229's haircut 
+Customer 229 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 229
+Barber 2 goes for a nap
+Customer 229 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 235 arrived at the shop
+Customer 235 wakes barber 2
+Barber 2 wakes up
+Customer 235 sits in barber's 2 chair
+Barber 2 gives customer 235 a haircut 
+Barber 1 finishes customer 230's haircut 
+Customer 230 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 230
+Barber 1 goes for a nap
+Customer 230 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 236 arrived at the shop
+Customer 236 wakes barber 1
+Barber 1 wakes up
+Customer 236 sits in barber's 1 chair
+Barber 1 gives customer 236 a haircut 
+Customer 237 arrived at the shop
+Customer 237 takes a seat in the waiting room
+Customer 238 arrived at the shop
+Customer 238 takes a seat in the waiting room
+Customer 239 arrived at the shop
+Customer 239 takes a seat in the waiting room
+Barber 0 finishes customer 234's haircut 
+Customer 234 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 234
+Barber 0 calls customer 237
+Barber 0 wakes up
+Customer 234 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 237 wakes barber 0
+Customer 237 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 237
+Barber 0 calls customer 238
+Barber 0 wakes up
+Customer 237 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 238 wakes barber 0
+Customer 238 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 238
+Barber 0 calls customer 239
+Barber 0 wakes up
+Customer 238 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 239 wakes barber 0
+Customer 239 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 239
+Barber 0 goes for a nap
+Customer 239 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 240 arrived at the shop
+Customer 240 wakes barber 0
+Barber 0 wakes up
+Customer 240 sits in barber's 0 chair
+Barber 0 gives customer 240 a haircut 
+Barber 2 finishes customer 235's haircut 
+Customer 235 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 235
+Barber 2 goes for a nap
+Customer 235 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 241 arrived at the shop
+Customer 241 wakes barber 2
+Barber 2 wakes up
+Customer 241 sits in barber's 2 chair
+Barber 2 gives customer 241 a haircut 
+Barber 1 finishes customer 236's haircut 
+Customer 236 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 236
+Barber 1 goes for a nap
+Customer 236 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 242 arrived at the shop
+Customer 242 wakes barber 1
+Barber 1 wakes up
+Customer 242 sits in barber's 1 chair
+Barber 1 gives customer 242 a haircut 
+Customer 243 arrived at the shop
+Customer 243 takes a seat in the waiting room
+Customer 244 arrived at the shop
+Customer 244 takes a seat in the waiting room
+Customer 245 arrived at the shop
+Customer 245 takes a seat in the waiting room
+Barber 0 finishes customer 240's haircut 
+Customer 240 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 240
+Barber 0 calls customer 243
+Barber 0 wakes up
+Customer 240 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 243 wakes barber 0
+Customer 243 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 243
+Barber 0 calls customer 244
+Barber 0 wakes up
+Customer 243 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 244 wakes barber 0
+Customer 244 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 244
+Barber 0 calls customer 245
+Barber 0 wakes up
+Customer 244 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 245 wakes barber 0
+Customer 245 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 245
+Barber 0 goes for a nap
+Customer 245 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 246 arrived at the shop
+Customer 246 wakes barber 0
+Barber 0 wakes up
+Customer 246 sits in barber's 0 chair
+Barber 0 gives customer 246 a haircut 
+Barber 2 finishes customer 241's haircut 
+Customer 241 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 241
+Barber 2 goes for a nap
+Customer 241 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 247 arrived at the shop
+Customer 247 wakes barber 2
+Barber 2 wakes up
+Customer 247 sits in barber's 2 chair
+Barber 2 gives customer 247 a haircut 
+Barber 1 finishes customer 242's haircut 
+Customer 242 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 242
+Barber 1 goes for a nap
+Customer 242 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 248 arrived at the shop
+Customer 248 wakes barber 1
+Barber 1 wakes up
+Customer 248 sits in barber's 1 chair
+Barber 1 gives customer 248 a haircut 
+Customer 249 arrived at the shop
+Customer 249 takes a seat in the waiting room
+Customer 250 arrived at the shop
+Customer 250 takes a seat in the waiting room
+Customer 251 arrived at the shop
+Customer 251 takes a seat in the waiting room
+Barber 0 finishes customer 246's haircut 
+Customer 246 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 246
+Barber 0 calls customer 249
+Barber 0 wakes up
+Customer 246 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 249 wakes barber 0
+Customer 249 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 249
+Barber 0 calls customer 250
+Barber 0 wakes up
+Customer 249 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 250 wakes barber 0
+Customer 250 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 250
+Barber 0 calls customer 251
+Barber 0 wakes up
+Customer 250 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 251 wakes barber 0
+Customer 251 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 251
+Barber 0 goes for a nap
+Customer 251 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 252 arrived at the shop
+Customer 252 wakes barber 0
+Barber 0 wakes up
+Customer 252 sits in barber's 0 chair
+Barber 0 gives customer 252 a haircut 
+Barber 2 finishes customer 247's haircut 
+Customer 247 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 247
+Barber 2 goes for a nap
+Customer 247 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 253 arrived at the shop
+Customer 253 wakes barber 2
+Barber 2 wakes up
+Customer 253 sits in barber's 2 chair
+Barber 2 gives customer 253 a haircut 
+Barber 1 finishes customer 248's haircut 
+Customer 248 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 248
+Barber 1 goes for a nap
+Customer 248 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 254 arrived at the shop
+Customer 254 wakes barber 1
+Barber 1 wakes up
+Customer 254 sits in barber's 1 chair
+Barber 1 gives customer 254 a haircut 
+Customer 255 arrived at the shop
+Customer 255 takes a seat in the waiting room
+Customer 256 arrived at the shop
+Customer 256 takes a seat in the waiting room
+Customer 257 arrived at the shop
+Customer 257 takes a seat in the waiting room
+Barber 0 finishes customer 252's haircut 
+Customer 252 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 252
+Barber 0 calls customer 255
+Barber 0 wakes up
+Customer 252 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 255 wakes barber 0
+Customer 255 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 255
+Barber 0 calls customer 256
+Barber 0 wakes up
+Customer 255 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 256 wakes barber 0
+Customer 256 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 256
+Barber 0 calls customer 257
+Barber 0 wakes up
+Customer 256 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 257 wakes barber 0
+Customer 257 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 257
+Barber 0 goes for a nap
+Customer 257 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 258 arrived at the shop
+Customer 258 wakes barber 0
+Barber 0 wakes up
+Customer 258 sits in barber's 0 chair
+Barber 0 gives customer 258 a haircut 
+Barber 2 finishes customer 253's haircut 
+Customer 253 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 253
+Barber 2 goes for a nap
+Customer 253 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 259 arrived at the shop
+Customer 259 wakes barber 2
+Barber 2 wakes up
+Customer 259 sits in barber's 2 chair
+Barber 2 gives customer 259 a haircut 
+Barber 1 finishes customer 254's haircut 
+Customer 254 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 254
+Barber 1 goes for a nap
+Customer 254 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 260 arrived at the shop
+Customer 260 wakes barber 1
+Barber 1 wakes up
+Customer 260 sits in barber's 1 chair
+Barber 1 gives customer 260 a haircut 
+Customer 261 arrived at the shop
+Customer 261 takes a seat in the waiting room
+Customer 262 arrived at the shop
+Customer 262 takes a seat in the waiting room
+Customer 263 arrived at the shop
+Customer 263 takes a seat in the waiting room
+Barber 0 finishes customer 258's haircut 
+Customer 258 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 258
+Barber 0 calls customer 261
+Barber 0 wakes up
+Customer 258 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 261 wakes barber 0
+Customer 261 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 261
+Barber 0 calls customer 262
+Barber 0 wakes up
+Customer 261 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 262 wakes barber 0
+Customer 262 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 262
+Barber 0 calls customer 263
+Barber 0 wakes up
+Customer 262 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 263 wakes barber 0
+Customer 263 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 263
+Barber 0 goes for a nap
+Customer 263 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 264 arrived at the shop
+Customer 264 wakes barber 0
+Barber 0 wakes up
+Customer 264 sits in barber's 0 chair
+Barber 0 gives customer 264 a haircut 
+Barber 2 finishes customer 259's haircut 
+Customer 259 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 259
+Barber 2 goes for a nap
+Customer 259 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 265 arrived at the shop
+Customer 265 wakes barber 2
+Barber 2 wakes up
+Customer 265 sits in barber's 2 chair
+Barber 2 gives customer 265 a haircut 
+Barber 1 finishes customer 260's haircut 
+Customer 260 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 260
+Barber 1 goes for a nap
+Customer 260 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 266 arrived at the shop
+Customer 266 wakes barber 1
+Barber 1 wakes up
+Customer 266 sits in barber's 1 chair
+Barber 1 gives customer 266 a haircut 
+Customer 267 arrived at the shop
+Customer 267 takes a seat in the waiting room
+Customer 268 arrived at the shop
+Customer 268 takes a seat in the waiting room
+Customer 269 arrived at the shop
+Customer 269 takes a seat in the waiting room
+Barber 0 finishes customer 264's haircut 
+Customer 264 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 264
+Barber 0 calls customer 267
+Barber 0 wakes up
+Customer 264 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 267 wakes barber 0
+Customer 267 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 267
+Barber 0 calls customer 268
+Barber 0 wakes up
+Customer 267 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 268 wakes barber 0
+Customer 268 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 268
+Barber 0 calls customer 269
+Barber 0 wakes up
+Customer 268 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 269 wakes barber 0
+Customer 269 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 269
+Barber 0 goes for a nap
+Customer 269 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 270 arrived at the shop
+Customer 270 wakes barber 0
+Barber 0 wakes up
+Customer 270 sits in barber's 0 chair
+Barber 0 gives customer 270 a haircut 
+Barber 2 finishes customer 265's haircut 
+Customer 265 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 265
+Barber 2 goes for a nap
+Customer 265 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 271 arrived at the shop
+Customer 271 wakes barber 2
+Barber 2 wakes up
+Customer 271 sits in barber's 2 chair
+Barber 2 gives customer 271 a haircut 
+Barber 1 finishes customer 266's haircut 
+Customer 266 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 266
+Barber 1 goes for a nap
+Customer 266 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 272 arrived at the shop
+Customer 272 wakes barber 1
+Barber 1 wakes up
+Customer 272 sits in barber's 1 chair
+Barber 1 gives customer 272 a haircut 
+Customer 273 arrived at the shop
+Customer 273 takes a seat in the waiting room
+Customer 274 arrived at the shop
+Customer 274 takes a seat in the waiting room
+Customer 275 arrived at the shop
+Customer 275 takes a seat in the waiting room
+Barber 0 finishes customer 270's haircut 
+Customer 270 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 270
+Barber 0 calls customer 273
+Barber 0 wakes up
+Customer 270 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 273 wakes barber 0
+Customer 273 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 273
+Barber 0 calls customer 274
+Barber 0 wakes up
+Customer 273 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 274 wakes barber 0
+Customer 274 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 274
+Barber 0 calls customer 275
+Barber 0 wakes up
+Customer 274 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 275 wakes barber 0
+Customer 275 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 275
+Barber 0 goes for a nap
+Customer 275 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 276 arrived at the shop
+Customer 276 wakes barber 0
+Barber 0 wakes up
+Customer 276 sits in barber's 0 chair
+Barber 0 gives customer 276 a haircut 
+Barber 2 finishes customer 271's haircut 
+Customer 271 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 271
+Barber 2 goes for a nap
+Customer 271 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 277 arrived at the shop
+Customer 277 wakes barber 2
+Barber 2 wakes up
+Customer 277 sits in barber's 2 chair
+Barber 2 gives customer 277 a haircut 
+Barber 1 finishes customer 272's haircut 
+Customer 272 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 272
+Barber 1 goes for a nap
+Customer 272 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 278 arrived at the shop
+Customer 278 wakes barber 1
+Barber 1 wakes up
+Customer 278 sits in barber's 1 chair
+Barber 1 gives customer 278 a haircut 
+Customer 279 arrived at the shop
+Customer 279 takes a seat in the waiting room
+Customer 280 arrived at the shop
+Customer 280 takes a seat in the waiting room
+Customer 281 arrived at the shop
+Customer 281 takes a seat in the waiting room
+Barber 0 finishes customer 276's haircut 
+Customer 276 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 276
+Barber 0 calls customer 279
+Barber 0 wakes up
+Customer 276 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 279 wakes barber 0
+Customer 279 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 279
+Barber 0 calls customer 280
+Barber 0 wakes up
+Customer 279 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 280 wakes barber 0
+Customer 280 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 280
+Barber 0 calls customer 281
+Barber 0 wakes up
+Customer 280 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 281 wakes barber 0
+Customer 281 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 281
+Barber 0 goes for a nap
+Customer 281 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 282 arrived at the shop
+Customer 282 wakes barber 0
+Barber 0 wakes up
+Customer 282 sits in barber's 0 chair
+Barber 0 gives customer 282 a haircut 
+Barber 2 finishes customer 277's haircut 
+Customer 277 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 277
+Barber 2 goes for a nap
+Customer 277 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 283 arrived at the shop
+Customer 283 wakes barber 2
+Barber 2 wakes up
+Customer 283 sits in barber's 2 chair
+Barber 2 gives customer 283 a haircut 
+Barber 1 finishes customer 278's haircut 
+Customer 278 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 278
+Barber 1 goes for a nap
+Customer 278 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 284 arrived at the shop
+Customer 284 wakes barber 1
+Barber 1 wakes up
+Customer 284 sits in barber's 1 chair
+Barber 1 gives customer 284 a haircut 
+Customer 285 arrived at the shop
+Customer 285 takes a seat in the waiting room
+Customer 286 arrived at the shop
+Customer 286 takes a seat in the waiting room
+Customer 287 arrived at the shop
+Customer 287 takes a seat in the waiting room
+Barber 0 finishes customer 282's haircut 
+Customer 282 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 282
+Barber 0 calls customer 285
+Barber 0 wakes up
+Customer 282 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 285 wakes barber 0
+Customer 285 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 285
+Barber 0 calls customer 286
+Barber 0 wakes up
+Customer 285 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 286 wakes barber 0
+Customer 286 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 286
+Barber 0 calls customer 287
+Barber 0 wakes up
+Customer 286 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 287 wakes barber 0
+Customer 287 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 287
+Barber 0 goes for a nap
+Customer 287 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 288 arrived at the shop
+Customer 288 wakes barber 0
+Barber 0 wakes up
+Customer 288 sits in barber's 0 chair
+Barber 0 gives customer 288 a haircut 
+Barber 2 finishes customer 283's haircut 
+Customer 283 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 283
+Barber 2 goes for a nap
+Customer 283 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 289 arrived at the shop
+Customer 289 wakes barber 2
+Barber 2 wakes up
+Customer 289 sits in barber's 2 chair
+Barber 2 gives customer 289 a haircut 
+Barber 1 finishes customer 284's haircut 
+Customer 284 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 284
+Barber 1 goes for a nap
+Customer 284 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 290 arrived at the shop
+Customer 290 wakes barber 1
+Barber 1 wakes up
+Customer 290 sits in barber's 1 chair
+Barber 1 gives customer 290 a haircut 
+Customer 291 arrived at the shop
+Customer 291 takes a seat in the waiting room
+Customer 292 arrived at the shop
+Customer 292 takes a seat in the waiting room
+Customer 293 arrived at the shop
+Customer 293 takes a seat in the waiting room
+Barber 0 finishes customer 288's haircut 
+Customer 288 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 288
+Barber 0 calls customer 291
+Barber 0 wakes up
+Customer 288 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 291 wakes barber 0
+Customer 291 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 291
+Barber 0 calls customer 292
+Barber 0 wakes up
+Customer 291 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 292 wakes barber 0
+Customer 292 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 292
+Barber 0 calls customer 293
+Barber 0 wakes up
+Customer 292 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 293 wakes barber 0
+Customer 293 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 293
+Barber 0 goes for a nap
+Customer 293 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 294 arrived at the shop
+Customer 294 wakes barber 0
+Barber 0 wakes up
+Customer 294 sits in barber's 0 chair
+Barber 0 gives customer 294 a haircut 
+Barber 2 finishes customer 289's haircut 
+Customer 289 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 289
+Barber 2 goes for a nap
+Customer 289 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 295 arrived at the shop
+Customer 295 wakes barber 2
+Barber 2 wakes up
+Customer 295 sits in barber's 2 chair
+Barber 2 gives customer 295 a haircut 
+Barber 1 finishes customer 290's haircut 
+Customer 290 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 290
+Barber 1 goes for a nap
+Customer 290 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 296 arrived at the shop
+Customer 296 wakes barber 1
+Barber 1 wakes up
+Customer 296 sits in barber's 1 chair
+Barber 1 gives customer 296 a haircut 
+Customer 297 arrived at the shop
+Customer 297 takes a seat in the waiting room
+Customer 298 arrived at the shop
+Customer 298 takes a seat in the waiting room
+Customer 299 arrived at the shop
+Customer 299 takes a seat in the waiting room
+Barber 0 finishes customer 294's haircut 
+Customer 294 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 294
+Barber 0 calls customer 297
+Barber 0 wakes up
+Customer 294 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 297 wakes barber 0
+Customer 297 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 297
+Barber 0 calls customer 298
+Barber 0 wakes up
+Customer 297 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 298 wakes barber 0
+Customer 298 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 298
+Barber 0 calls customer 299
+Barber 0 wakes up
+Customer 298 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 299 wakes barber 0
+Customer 299 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 299
+Barber 0 goes for a nap
+Customer 299 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 300 arrived at the shop
+Customer 300 wakes barber 0
+Barber 0 wakes up
+Customer 300 sits in barber's 0 chair
+Barber 0 gives customer 300 a haircut 
+Barber 2 finishes customer 295's haircut 
+Customer 295 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 295
+Barber 2 goes for a nap
+Customer 295 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 301 arrived at the shop
+Customer 301 wakes barber 2
+Barber 2 wakes up
+Customer 301 sits in barber's 2 chair
+Barber 2 gives customer 301 a haircut 
+Barber 1 finishes customer 296's haircut 
+Customer 296 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 296
+Barber 1 goes for a nap
+Customer 296 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 302 arrived at the shop
+Customer 302 wakes barber 1
+Barber 1 wakes up
+Customer 302 sits in barber's 1 chair
+Barber 1 gives customer 302 a haircut 
+Customer 303 arrived at the shop
+Customer 303 takes a seat in the waiting room
+Customer 304 arrived at the shop
+Customer 304 takes a seat in the waiting room
+Customer 305 arrived at the shop
+Customer 305 takes a seat in the waiting room
+Barber 0 finishes customer 300's haircut 
+Customer 300 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 300
+Barber 0 calls customer 303
+Barber 0 wakes up
+Customer 300 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 303 wakes barber 0
+Customer 303 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 303
+Barber 0 calls customer 304
+Barber 0 wakes up
+Customer 303 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 304 wakes barber 0
+Customer 304 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 304
+Barber 0 calls customer 305
+Barber 0 wakes up
+Customer 304 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 305 wakes barber 0
+Customer 305 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 305
+Barber 0 goes for a nap
+Customer 305 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 306 arrived at the shop
+Customer 306 wakes barber 0
+Barber 0 wakes up
+Customer 306 sits in barber's 0 chair
+Barber 0 gives customer 306 a haircut 
+Barber 2 finishes customer 301's haircut 
+Customer 301 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 301
+Barber 2 goes for a nap
+Customer 301 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 307 arrived at the shop
+Customer 307 wakes barber 2
+Barber 2 wakes up
+Customer 307 sits in barber's 2 chair
+Barber 2 gives customer 307 a haircut 
+Barber 1 finishes customer 302's haircut 
+Customer 302 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 302
+Barber 1 goes for a nap
+Customer 302 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 308 arrived at the shop
+Customer 308 wakes barber 1
+Barber 1 wakes up
+Customer 308 sits in barber's 1 chair
+Barber 1 gives customer 308 a haircut 
+Customer 309 arrived at the shop
+Customer 309 takes a seat in the waiting room
+Customer 310 arrived at the shop
+Customer 310 takes a seat in the waiting room
+Customer 311 arrived at the shop
+Customer 311 takes a seat in the waiting room
+Barber 0 finishes customer 306's haircut 
+Customer 306 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 306
+Barber 0 calls customer 309
+Barber 0 wakes up
+Customer 309 wakes barber 0
+Customer 306 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 309 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 309
+Barber 0 calls customer 310
+Barber 0 wakes up
+Customer 309 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 310 wakes barber 0
+Customer 310 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 310
+Barber 0 calls customer 311
+Barber 0 wakes up
+Customer 311 wakes barber 0
+Customer 310 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 311 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 311
+Barber 0 goes for a nap
+Customer 311 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 312 arrived at the shop
+Customer 312 wakes barber 0
+Barber 0 wakes up
+Customer 312 sits in barber's 0 chair
+Barber 0 gives customer 312 a haircut 
+Barber 2 finishes customer 307's haircut 
+Customer 307 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 307
+Barber 2 goes for a nap
+Customer 307 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 313 arrived at the shop
+Customer 313 wakes barber 2
+Barber 2 wakes up
+Customer 313 sits in barber's 2 chair
+Barber 2 gives customer 313 a haircut 
+Barber 1 finishes customer 308's haircut 
+Customer 308 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 308
+Barber 1 goes for a nap
+Customer 308 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 314 arrived at the shop
+Customer 314 wakes barber 1
+Barber 1 wakes up
+Customer 314 sits in barber's 1 chair
+Barber 1 gives customer 314 a haircut 
+Customer 315 arrived at the shop
+Customer 315 takes a seat in the waiting room
+Customer 316 arrived at the shop
+Customer 316 takes a seat in the waiting room
+Customer 317 arrived at the shop
+Customer 317 takes a seat in the waiting room
+Barber 0 finishes customer 312's haircut 
+Customer 312 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 312
+Barber 0 calls customer 315
+Barber 0 wakes up
+Customer 312 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 315 wakes barber 0
+Customer 315 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 315
+Barber 0 calls customer 316
+Barber 0 wakes up
+Customer 315 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 316 wakes barber 0
+Customer 316 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 316
+Barber 0 calls customer 317
+Barber 0 wakes up
+Customer 316 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 317 wakes barber 0
+Customer 317 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 317
+Barber 0 goes for a nap
+Customer 317 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 318 arrived at the shop
+Customer 318 wakes barber 0
+Barber 0 wakes up
+Customer 318 sits in barber's 0 chair
+Barber 0 gives customer 318 a haircut 
+Barber 2 finishes customer 313's haircut 
+Customer 313 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 313
+Barber 2 goes for a nap
+Customer 313 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 319 arrived at the shop
+Customer 319 wakes barber 2
+Barber 2 wakes up
+Customer 319 sits in barber's 2 chair
+Barber 2 gives customer 319 a haircut 
+Barber 1 finishes customer 314's haircut 
+Customer 314 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 314
+Barber 1 goes for a nap
+Customer 314 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 320 arrived at the shop
+Customer 320 wakes barber 1
+Barber 1 wakes up
+Customer 320 sits in barber's 1 chair
+Barber 1 gives customer 320 a haircut 
+Customer 321 arrived at the shop
+Customer 321 takes a seat in the waiting room
+Customer 322 arrived at the shop
+Customer 322 takes a seat in the waiting room
+Customer 323 arrived at the shop
+Customer 323 takes a seat in the waiting room
+Barber 0 finishes customer 318's haircut 
+Customer 318 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 318
+Barber 0 calls customer 321
+Barber 0 wakes up
+Customer 318 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 321 wakes barber 0
+Customer 321 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 321
+Barber 0 calls customer 322
+Barber 0 wakes up
+Customer 321 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 322 wakes barber 0
+Customer 322 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 322
+Barber 0 calls customer 323
+Barber 0 wakes up
+Customer 322 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 323 wakes barber 0
+Customer 323 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 323
+Barber 0 goes for a nap
+Customer 323 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 324 arrived at the shop
+Customer 324 wakes barber 0
+Barber 0 wakes up
+Customer 324 sits in barber's 0 chair
+Barber 0 gives customer 324 a haircut 
+Barber 2 finishes customer 319's haircut 
+Customer 319 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 319
+Barber 2 goes for a nap
+Customer 319 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 325 arrived at the shop
+Customer 325 wakes barber 2
+Barber 2 wakes up
+Customer 325 sits in barber's 2 chair
+Barber 2 gives customer 325 a haircut 
+Barber 1 finishes customer 320's haircut 
+Customer 320 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 320
+Barber 1 goes for a nap
+Customer 320 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 326 arrived at the shop
+Customer 326 wakes barber 1
+Barber 1 wakes up
+Customer 326 sits in barber's 1 chair
+Barber 1 gives customer 326 a haircut 
+Customer 327 arrived at the shop
+Customer 327 takes a seat in the waiting room
+Customer 328 arrived at the shop
+Customer 328 takes a seat in the waiting room
+Customer 329 arrived at the shop
+Customer 329 takes a seat in the waiting room
+Barber 0 finishes customer 324's haircut 
+Customer 324 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 324
+Barber 0 calls customer 327
+Barber 0 wakes up
+Customer 324 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 327 wakes barber 0
+Customer 327 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 327
+Barber 0 calls customer 328
+Barber 0 wakes up
+Customer 327 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 328 wakes barber 0
+Customer 328 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 328
+Barber 0 calls customer 329
+Barber 0 wakes up
+Customer 328 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 329 wakes barber 0
+Customer 329 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 329
+Barber 0 goes for a nap
+Customer 329 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 330 arrived at the shop
+Customer 330 wakes barber 0
+Barber 0 wakes up
+Customer 330 sits in barber's 0 chair
+Barber 0 gives customer 330 a haircut 
+Barber 2 finishes customer 325's haircut 
+Customer 325 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 325
+Barber 2 goes for a nap
+Customer 325 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 331 arrived at the shop
+Customer 331 wakes barber 2
+Barber 2 wakes up
+Customer 331 sits in barber's 2 chair
+Barber 2 gives customer 331 a haircut 
+Barber 1 finishes customer 326's haircut 
+Customer 326 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 326
+Barber 1 goes for a nap
+Customer 326 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 332 arrived at the shop
+Customer 332 wakes barber 1
+Barber 1 wakes up
+Customer 332 sits in barber's 1 chair
+Barber 1 gives customer 332 a haircut 
+Customer 333 arrived at the shop
+Customer 333 takes a seat in the waiting room
+Customer 334 arrived at the shop
+Customer 334 takes a seat in the waiting room
+Customer 335 arrived at the shop
+Customer 335 takes a seat in the waiting room
+Barber 0 finishes customer 330's haircut 
+Customer 330 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 330
+Barber 0 calls customer 333
+Barber 0 wakes up
+Customer 330 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 333 wakes barber 0
+Customer 333 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 333
+Barber 0 calls customer 334
+Barber 0 wakes up
+Customer 333 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 334 wakes barber 0
+Customer 334 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 334
+Barber 0 calls customer 335
+Barber 0 wakes up
+Customer 334 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 335 wakes barber 0
+Customer 335 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 335
+Barber 0 goes for a nap
+Customer 335 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 336 arrived at the shop
+Customer 336 wakes barber 0
+Barber 0 wakes up
+Customer 336 sits in barber's 0 chair
+Barber 0 gives customer 336 a haircut 
+Barber 2 finishes customer 331's haircut 
+Customer 331 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 331
+Barber 2 goes for a nap
+Customer 331 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 337 arrived at the shop
+Customer 337 wakes barber 2
+Barber 2 wakes up
+Customer 337 sits in barber's 2 chair
+Barber 2 gives customer 337 a haircut 
+Barber 1 finishes customer 332's haircut 
+Customer 332 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 332
+Barber 1 goes for a nap
+Customer 332 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 338 arrived at the shop
+Customer 338 wakes barber 1
+Barber 1 wakes up
+Customer 338 sits in barber's 1 chair
+Barber 1 gives customer 338 a haircut 
+Customer 339 arrived at the shop
+Customer 339 takes a seat in the waiting room
+Customer 340 arrived at the shop
+Customer 340 takes a seat in the waiting room
+Customer 341 arrived at the shop
+Customer 341 takes a seat in the waiting room
+Barber 0 finishes customer 336's haircut 
+Customer 336 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 336
+Barber 0 calls customer 339
+Barber 0 wakes up
+Customer 336 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 339 wakes barber 0
+Customer 339 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 339
+Barber 0 calls customer 340
+Barber 0 wakes up
+Customer 339 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 340 wakes barber 0
+Customer 340 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 340
+Barber 0 calls customer 341
+Barber 0 wakes up
+Customer 340 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 341 wakes barber 0
+Customer 341 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 341
+Barber 0 goes for a nap
+Customer 341 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 342 arrived at the shop
+Customer 342 wakes barber 0
+Barber 0 wakes up
+Customer 342 sits in barber's 0 chair
+Barber 0 gives customer 342 a haircut 
+Barber 2 finishes customer 337's haircut 
+Customer 337 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 337
+Barber 2 goes for a nap
+Customer 337 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 343 arrived at the shop
+Customer 343 wakes barber 2
+Barber 2 wakes up
+Customer 343 sits in barber's 2 chair
+Barber 2 gives customer 343 a haircut 
+Barber 1 finishes customer 338's haircut 
+Customer 338 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 338
+Barber 1 goes for a nap
+Customer 338 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 344 arrived at the shop
+Customer 344 wakes barber 1
+Barber 1 wakes up
+Customer 344 sits in barber's 1 chair
+Barber 1 gives customer 344 a haircut 
+Customer 345 arrived at the shop
+Customer 345 takes a seat in the waiting room
+Customer 346 arrived at the shop
+Customer 346 takes a seat in the waiting room
+Customer 347 arrived at the shop
+Customer 347 takes a seat in the waiting room
+Barber 0 finishes customer 342's haircut 
+Customer 342 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 342
+Barber 0 calls customer 345
+Barber 0 wakes up
+Customer 342 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 345 wakes barber 0
+Customer 345 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 345
+Barber 0 calls customer 346
+Barber 0 wakes up
+Customer 345 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 346 wakes barber 0
+Customer 346 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 346
+Barber 0 calls customer 347
+Barber 0 wakes up
+Customer 346 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 347 wakes barber 0
+Customer 347 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 347
+Barber 0 goes for a nap
+Customer 347 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 348 arrived at the shop
+Customer 348 wakes barber 0
+Barber 0 wakes up
+Customer 348 sits in barber's 0 chair
+Barber 0 gives customer 348 a haircut 
+Barber 2 finishes customer 343's haircut 
+Customer 343 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 343
+Barber 2 goes for a nap
+Customer 343 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 349 arrived at the shop
+Customer 349 wakes barber 2
+Barber 2 wakes up
+Customer 349 sits in barber's 2 chair
+Barber 2 gives customer 349 a haircut 
+Barber 1 finishes customer 344's haircut 
+Customer 344 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 344
+Barber 1 goes for a nap
+Customer 344 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 350 arrived at the shop
+Customer 350 wakes barber 1
+Barber 1 wakes up
+Customer 350 sits in barber's 1 chair
+Barber 1 gives customer 350 a haircut 
+Customer 351 arrived at the shop
+Customer 351 takes a seat in the waiting room
+Customer 352 arrived at the shop
+Customer 352 takes a seat in the waiting room
+Customer 353 arrived at the shop
+Customer 353 takes a seat in the waiting room
+Barber 0 finishes customer 348's haircut 
+Customer 348 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 348
+Barber 0 calls customer 351
+Barber 0 wakes up
+Customer 348 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 351 wakes barber 0
+Customer 351 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 351
+Barber 0 calls customer 352
+Barber 0 wakes up
+Customer 351 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 352 wakes barber 0
+Customer 352 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 352
+Barber 0 calls customer 353
+Barber 0 wakes up
+Customer 352 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 353 wakes barber 0
+Customer 353 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 353
+Barber 0 goes for a nap
+Customer 353 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 354 arrived at the shop
+Customer 354 wakes barber 0
+Barber 0 wakes up
+Customer 354 sits in barber's 0 chair
+Barber 0 gives customer 354 a haircut 
+Barber 2 finishes customer 349's haircut 
+Customer 349 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 349
+Barber 2 goes for a nap
+Customer 349 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 355 arrived at the shop
+Customer 355 wakes barber 2
+Barber 2 wakes up
+Customer 355 sits in barber's 2 chair
+Barber 2 gives customer 355 a haircut 
+Barber 1 finishes customer 350's haircut 
+Customer 350 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 350
+Barber 1 goes for a nap
+Customer 350 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 356 arrived at the shop
+Customer 356 wakes barber 1
+Barber 1 wakes up
+Customer 356 sits in barber's 1 chair
+Barber 1 gives customer 356 a haircut 
+Customer 357 arrived at the shop
+Customer 357 takes a seat in the waiting room
+Customer 358 arrived at the shop
+Customer 358 takes a seat in the waiting room
+Customer 359 arrived at the shop
+Customer 359 takes a seat in the waiting room
+Barber 0 finishes customer 354's haircut 
+Customer 354 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 354
+Barber 0 calls customer 357
+Barber 0 wakes up
+Customer 354 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 357 wakes barber 0
+Customer 357 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 357
+Barber 0 calls customer 358
+Barber 0 wakes up
+Customer 357 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 358 wakes barber 0
+Customer 358 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 358
+Barber 0 calls customer 359
+Barber 0 wakes up
+Customer 358 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 359 wakes barber 0
+Customer 359 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 359
+Barber 0 goes for a nap
+Customer 359 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 360 arrived at the shop
+Customer 360 wakes barber 0
+Barber 0 wakes up
+Customer 360 sits in barber's 0 chair
+Barber 0 gives customer 360 a haircut 
+Barber 2 finishes customer 355's haircut 
+Customer 355 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 355
+Barber 2 goes for a nap
+Customer 355 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 361 arrived at the shop
+Customer 361 wakes barber 2
+Barber 2 wakes up
+Customer 361 sits in barber's 2 chair
+Barber 2 gives customer 361 a haircut 
+Barber 1 finishes customer 356's haircut 
+Customer 356 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 356
+Barber 1 goes for a nap
+Customer 356 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 362 arrived at the shop
+Customer 362 wakes barber 1
+Barber 1 wakes up
+Customer 362 sits in barber's 1 chair
+Barber 1 gives customer 362 a haircut 
+Customer 363 arrived at the shop
+Customer 363 takes a seat in the waiting room
+Customer 364 arrived at the shop
+Customer 364 takes a seat in the waiting room
+Customer 365 arrived at the shop
+Customer 365 takes a seat in the waiting room
+Barber 0 finishes customer 360's haircut 
+Customer 360 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 360
+Barber 0 calls customer 363
+Barber 0 wakes up
+Customer 360 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 363 wakes barber 0
+Customer 363 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 363
+Barber 0 calls customer 364
+Barber 0 wakes up
+Customer 363 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 364 wakes barber 0
+Customer 364 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 364
+Barber 0 calls customer 365
+Barber 0 wakes up
+Customer 364 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 365 wakes barber 0
+Customer 365 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 365
+Barber 0 goes for a nap
+Customer 365 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 366 arrived at the shop
+Customer 366 wakes barber 0
+Barber 0 wakes up
+Customer 366 sits in barber's 0 chair
+Barber 0 gives customer 366 a haircut 
+Barber 2 finishes customer 361's haircut 
+Customer 361 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 361
+Barber 2 goes for a nap
+Customer 361 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 367 arrived at the shop
+Customer 367 wakes barber 2
+Barber 2 wakes up
+Customer 367 sits in barber's 2 chair
+Barber 2 gives customer 367 a haircut 
+Barber 1 finishes customer 362's haircut 
+Customer 362 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 362
+Barber 1 goes for a nap
+Customer 362 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 368 arrived at the shop
+Customer 368 wakes barber 1
+Barber 1 wakes up
+Customer 368 sits in barber's 1 chair
+Barber 1 gives customer 368 a haircut 
+Customer 369 arrived at the shop
+Customer 369 takes a seat in the waiting room
+Customer 370 arrived at the shop
+Customer 370 takes a seat in the waiting room
+Customer 371 arrived at the shop
+Customer 371 takes a seat in the waiting room
+Barber 0 finishes customer 366's haircut 
+Customer 366 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 366
+Barber 0 calls customer 369
+Barber 0 wakes up
+Customer 366 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 369 wakes barber 0
+Customer 369 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 369
+Barber 0 calls customer 370
+Barber 0 wakes up
+Customer 369 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 370 wakes barber 0
+Customer 370 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 370
+Barber 0 calls customer 371
+Barber 0 wakes up
+Customer 370 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 371 wakes barber 0
+Customer 371 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 371
+Barber 0 goes for a nap
+Customer 371 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 372 arrived at the shop
+Customer 372 wakes barber 0
+Barber 0 wakes up
+Customer 372 sits in barber's 0 chair
+Barber 0 gives customer 372 a haircut 
+Barber 2 finishes customer 367's haircut 
+Customer 367 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 367
+Barber 2 goes for a nap
+Customer 367 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 373 arrived at the shop
+Customer 373 wakes barber 2
+Barber 2 wakes up
+Customer 373 sits in barber's 2 chair
+Barber 2 gives customer 373 a haircut 
+Barber 1 finishes customer 368's haircut 
+Customer 368 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 368
+Barber 1 goes for a nap
+Customer 368 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 374 arrived at the shop
+Customer 374 wakes barber 1
+Barber 1 wakes up
+Customer 374 sits in barber's 1 chair
+Barber 1 gives customer 374 a haircut 
+Customer 375 arrived at the shop
+Customer 375 takes a seat in the waiting room
+Customer 376 arrived at the shop
+Customer 376 takes a seat in the waiting room
+Customer 377 arrived at the shop
+Customer 377 takes a seat in the waiting room
+Barber 0 finishes customer 372's haircut 
+Customer 372 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 372
+Barber 0 calls customer 375
+Barber 0 wakes up
+Customer 372 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 375 wakes barber 0
+Customer 375 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 375
+Barber 0 calls customer 376
+Barber 0 wakes up
+Customer 375 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 376 wakes barber 0
+Customer 376 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 376
+Barber 0 calls customer 377
+Barber 0 wakes up
+Customer 376 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 377 wakes barber 0
+Customer 377 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 377
+Barber 0 goes for a nap
+Customer 377 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 378 arrived at the shop
+Customer 378 wakes barber 0
+Barber 0 wakes up
+Customer 378 sits in barber's 0 chair
+Barber 0 gives customer 378 a haircut 
+Barber 2 finishes customer 373's haircut 
+Customer 373 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 373
+Barber 2 goes for a nap
+Customer 373 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 379 arrived at the shop
+Customer 379 wakes barber 2
+Barber 2 wakes up
+Customer 379 sits in barber's 2 chair
+Barber 2 gives customer 379 a haircut 
+Barber 1 finishes customer 374's haircut 
+Customer 374 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 374
+Barber 1 goes for a nap
+Customer 374 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 380 arrived at the shop
+Customer 380 wakes barber 1
+Barber 1 wakes up
+Customer 380 sits in barber's 1 chair
+Barber 1 gives customer 380 a haircut 
+Customer 381 arrived at the shop
+Customer 381 takes a seat in the waiting room
+Customer 382 arrived at the shop
+Customer 382 takes a seat in the waiting room
+Customer 383 arrived at the shop
+Customer 383 takes a seat in the waiting room
+Barber 0 finishes customer 378's haircut 
+Customer 378 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 378
+Barber 0 calls customer 381
+Barber 0 wakes up
+Customer 378 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 381 wakes barber 0
+Customer 381 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 381
+Barber 0 calls customer 382
+Barber 0 wakes up
+Customer 381 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 382 wakes barber 0
+Customer 382 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 382
+Barber 0 calls customer 383
+Barber 0 wakes up
+Customer 382 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 383 wakes barber 0
+Customer 383 gets up and proffers payment to barber 0
+Barber 0 accepts payment from customer 383
+Barber 0 goes for a nap
+Customer 383 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 384 arrived at the shop
+Customer 384 wakes barber 0
+Barber 0 wakes up
+Customer 384 sits in barber's 0 chair
+Barber 0 gives customer 384 a haircut 
+Barber 2 finishes customer 379's haircut 
+Customer 379 gets up and proffers payment to barber 2
+Barber 2 accepts payment from customer 379
+Barber 2 goes for a nap
+Customer 379 leaves statisfied
+Calling Customer destructor: Deleting customer
+Customer 385 arrived at the shop
+Customer 385 wakes barber 2
+Barber 2 wakes up
+Customer 385 sits in barber's 2 chair
+Barber 2 gives customer 385 a haircut 
+Barber 1 finishes customer 380's haircut 
+Customer 380 gets up and proffers payment to barber 1
+Barber 1 accepts payment from customer 380
+Barber 1 goes for a nap
+Customer 380 leaves statisfied
+Calling Customer destructor: Deleting customer
+the shop closes
+customers served immediately: 194
+customers waited 192
+total customers served 386
+customers turned away: 0
+total customers: 386
+Wake up barber 
